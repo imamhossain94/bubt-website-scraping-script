@@ -1,0 +1,372 @@
+{
+    "data":[
+       {
+          "course_code":"ENG 101",
+          "course_title":"English Language I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 102",
+          "course_title":"English Language II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"SOC 101",
+          "course_title":"Introduction to Social Sciences",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"HUM 101",
+          "course_title":"World History & Civilization",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"HUM 102",
+          "course_title":"Introduction to Philosophy",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"HUM 103",
+          "course_title":"European History",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"HUM 104",
+          "course_title":"International Relations",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 103",
+          "course_title":"Introduction to Poetry",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 104",
+          "course_title":"Introduction to Prose",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 201",
+          "course_title":"Introduction to Drama",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 202",
+          "course_title":"Basic English Grammar",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 203",
+          "course_title":"The Romantic Poets",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 204",
+          "course_title":"History of English Literature",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 205",
+          "course_title":"Introduction to Linguistics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 205",
+          "course_title":"Introduction to Linguistics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 206",
+          "course_title":"Modern Drama",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 207",
+          "course_title":"American Literature I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 208",
+          "course_title":"18th Century English Literature",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 209",
+          "course_title":"Victorian Literature",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 210",
+          "course_title":"Elizabethan to Restoration Literature",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 301",
+          "course_title":"English Non-fiction Prose",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 302",
+          "course_title":"American Literature II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 303",
+          "course_title":"English Syntax",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 304",
+          "course_title":"Introduction to English Language Teaching (ELT)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 305",
+          "course_title":"Critical Appreciation, Rhetoric & Prosody",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 306",
+          "course_title":"Introduction to Phonetics & Phonology",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 307",
+          "course_title":"Literary Criticism (Ancient & Modern)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 308",
+          "course_title":"Studies in Shakespeare",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 309",
+          "course_title":"Literary Theories I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 310",
+          "course_title":"Classics in Translation",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 401",
+          "course_title":"Modern Fiction",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 402",
+          "course_title":"Modern Poetry",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 403",
+          "course_title":"Postcolonial Literature l",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 404",
+          "course_title":"English for Specific Purposes (ESP)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 450",
+          "course_title":"Research Methodology",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 499",
+          "course_title":"Project work: Thesis",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"4",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 430",
+          "course_title":"Introduction to Sociolinguistics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 431",
+          "course_title":"Introduction to Psycholinguistics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 433",
+          "course_title":"Introduction to Semantics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"HUM 439",
+          "course_title":"History of Western Ideas",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 436",
+          "course_title":"Bangla Literature",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 435",
+          "course_title":"Literary Theories II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 432",
+          "course_title":"Language Learning and Acquisition",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 437",
+          "course_title":"Post-Colonial Literature II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 438",
+          "course_title":"Old and Middle English Literature",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 434",
+          "course_title":"Translation",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       }
+    ]
+ }

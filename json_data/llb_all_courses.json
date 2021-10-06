@@ -1,0 +1,460 @@
+{
+    "data":[
+       {
+          "course_code":"Law-602",
+          "course_title":"Bangladesh and English Legal System",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG-101",
+          "course_title":"English for Law I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-604",
+          "course_title":"Government and Politics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-604",
+          "course_title":"Government and Politics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-605",
+          "course_title":"Jurisprudence and Legal Theory",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-606",
+          "course_title":"Bangladesh Studies",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CSE-101",
+          "course_title":"Introduction to Computer",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-608",
+          "course_title":"Cyber Law",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-608",
+          "course_title":"Cyber Law",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-609",
+          "course_title":"Hindu Law and Roman Law",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-610",
+          "course_title":"Muslim Law-I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-611",
+          "course_title":"The Law of Consumer Rights",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-612",
+          "course_title":"Public International Law",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"2nd",
+          "course_title":"4th",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-613",
+          "course_title":"Muslim Law-II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-614",
+          "course_title":"Law of Mass Media",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-615",
+          "course_title":"Criminology",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-616",
+          "course_title":"Constitutional Law of Bangladesh",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-616",
+          "course_title":"Constitutional Law of Bangladesh",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-617",
+          "course_title":"Constitutional Laws of UK and USA",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-618",
+          "course_title":"",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-619",
+          "course_title":"Company Law and Partnership Law",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-620",
+          "course_title":"Land Laws of Bangladesh-I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-620",
+          "course_title":"Land Laws of Bangladesh-I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-621",
+          "course_title":"Land Laws of Bangladesh-II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-622",
+          "course_title":"Law of Contract",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-623",
+          "course_title":"Law of Tort",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-624",
+          "course_title":"Law of Transfer of Property",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-625",
+          "course_title":"Labor Law",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-626",
+          "course_title":"Mercantile Law",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-627",
+          "course_title":"General Clauses Act and Interpretation of Statute",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-628",
+          "course_title":"Law of Registration and PDR Act",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-628",
+          "course_title":"Law of Registration and PDR Act",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-629",
+          "course_title":"Revenue and Fiscal Law",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-630",
+          "course_title":"Law of Evidence",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-631",
+          "course_title":"Penal Code",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-632",
+          "course_title":"Police Regulation of Bengal and Jail Code",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-632",
+          "course_title":"Police Regulation of Bengal and Jail Code",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-633",
+          "course_title":"Special Penal Laws",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-634",
+          "course_title":"Court Fees Act ,Stamp Act and Suit Valuation Act",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-635",
+          "course_title":"Law of Banking and Insurance",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-636",
+          "course_title":"SR. Act and Law of Limitation",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"4th",
+          "course_title":"10th",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-637",
+          "course_title":"Code of Civil Procedure-I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-638",
+          "course_title":"Code of Criminal Procedure-I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-639",
+          "course_title":"Civil Rules and Orders and Civil Suit Instruction Manual",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-640",
+          "course_title":"Code of Civil Procedure -II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-640",
+          "course_title":"Code of Civil Procedure -II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-641",
+          "course_title":"Code of Criminal Procedure-II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-642",
+          "course_title":"Conveyance and Legal Drafting-I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-643",
+          "course_title":"Conveyance and Legal Drafting-II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-644",
+          "course_title":"Clinical Legal Education",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-644",
+          "course_title":"Clinical Legal Education",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-645",
+          "course_title":"Bar Council Rules, Professional Conduct & Etiquette",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-646",
+          "course_title":"Legal Research Methodology",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-647",
+          "course_title":"Dissertation",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"Law-647",
+          "course_title":"Dissertation",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       }
+    ]
+ }

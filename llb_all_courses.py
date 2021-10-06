@@ -40,7 +40,7 @@ def getLLBCourse(programUrl):
                         'prerequisit': ''
                     }
             finalData['data'].append(localData)
-        print(json.dumps(finalData))     
+        # print(json.dumps(finalData))     
     except Exception as ex:
         finalData = {'status': 'failed', 'reason': str(ex)} 
     return finalData

@@ -4,8 +4,7 @@ from bs4 import BeautifulSoup
 import json
 baseURL = 'https://www.bubt.edu.bd'
 
-
-def getECOCourse(programUrl):
+def getENGCourse(programUrl):
     finalData = {'data': list()}
     try:
         programHTML = get(baseURL+programUrl).text
@@ -15,13 +14,13 @@ def getECOCourse(programUrl):
             localData = dict()
             for row in rows[0:]:
                 cols = row.find_all('td')
-                if len(cols) == 4:
+                if len(cols) == 3:
                     localData = {
-                        'course_code': cols[1].text.strip(),
-                        'course_title': cols[2].text.strip(),
+                        'course_code': cols[0].text.strip(),
+                        'course_title': cols[1].text.strip(),
                         'theory_credit': '',
                         'lab_credit': '',
-                        'total_credit': cols[3].text.strip(),
+                        'total_credit': cols[2].text.strip(),
                         'prerequisit': ''
                     }
                     finalData['data'].append(localData)
@@ -30,4 +29,4 @@ def getECOCourse(programUrl):
         finalData = {'status': 'failed', 'reason': str(ex)} 
     return finalData
 
-getECOCourse("/home/course_details/bsc-hons-in-economics")
+getENGCourse("/home/course_details/ba-hons-in-english")

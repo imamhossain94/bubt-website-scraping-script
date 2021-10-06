@@ -6,9 +6,7 @@ baseURL = 'https://www.bubt.edu.bd'
 
 
 def getCIVILCourse(programURL):
-    finalData = {
-        'data': list()
-    }
+    finalData = {'data': list()}
     try:
         programHTML = get(baseURL+programURL).text
         tables = BeautifulSoup(str(programHTML), 'html.parser').find_all('table')[0:9]

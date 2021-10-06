@@ -16,15 +16,15 @@ def getEDECourse(programUrl):
                 cols = row.find_all('td')
                 if len(cols) == 4:
                     localData = {
-                            'course_code': cols[1].text.strip(),
-                            'course_title': cols[2].text.strip(),
-                            'theory_credit': '',
-                            'lab_credit': '',
-                            'total_credit': cols[3].text.strip(),
-                            'prerequisit': ''
+                        'course_code': cols[1].text.strip(),
+                        'course_title': cols[2].text.strip(),
+                        'theory_credit': '',
+                        'lab_credit': '',
+                        'total_credit': cols[3].text.strip(),
+                        'prerequisit': ''
                     }
                     finalData['data'].append(localData)
-        print(json.dumps(finalData))
+        # print(json.dumps(finalData))
     except Exception as ex:
         finalData = {'status': 'failed', 'reason': str(ex)} 
     return finalData

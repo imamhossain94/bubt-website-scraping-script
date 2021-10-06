@@ -1,0 +1,538 @@
+[
+    {
+       "course_code":"BUS 101",
+       "course_title":"Introduction to Business",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"BUS 202",
+       "course_title":"Business Communication",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"BUS 303",
+       "course_title":"International Business",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"BUS 404",
+       "course_title":"Business Environment",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"BUS 405",
+       "course_title":"Research Methodology for Business",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"ACT 101",
+       "course_title":"Introduction to Financial Accounting",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"ACT 202",
+       "course_title":"Introduction to Management Accounting",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"ACT 203",
+       "course_title":"Taxation",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"MGT 201",
+       "course_title":"Principles of Management",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"MGT 403",
+       "course_title":"Project Management",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"MGT 404",
+       "course_title":"Entrepreneurial Policies & Practices",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"MGT 405",
+       "course_title":"Business Policy & Strategy",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"FIN 301",
+       "course_title":"Introduction to Finance",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"FIN 302",
+       "course_title":"Managerial Finance",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"FIN 303",
+       "course_title":"Banking and Insurance",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"MKT 301",
+       "course_title":"Introduction to Marketing",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"MKT 302",
+       "course_title":"Marketing Management",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"ECO 101",
+       "course_title":"Micro Economics",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"ECO 202",
+       "course_title":"Macro Economics",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"HRM 201",
+       "course_title":"Human Resource Management",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"HRM 302",
+       "course_title":"Organizational Behavior",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"ENG 101",
+       "course_title":"English Language I",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"ENG 102",
+       "course_title":"English Language II",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"CIS 101",
+       "course_title":"Introduction to Computer Science",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"CIS 202",
+       "course_title":"Computer Application",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"CIS 410",
+       "course_title":"Management Information System",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"OPN 301",
+       "course_title":"Production & Operations Management",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"LAW 201",
+       "course_title":"Business Law",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"MAT 101",
+       "course_title":"Fundamentals of Mathematics",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"MAT 102",
+       "course_title":"Mathematics for Decision Making",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"STA 201",
+       "course_title":"Introduction to Statistics",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"STA 202",
+       "course_title":"Applied Statistics",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"SCE 101",
+       "course_title":"Basics in Natural Science",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"SOC 101",
+       "course_title":"Basics in Social Science",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"HRM 403",
+       "course_title":"Human Resource Planning and Policy",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"HRM 405",
+       "course_title":"Compensation Management",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"HRM 407",
+       "course_title":"Human Resource Management Practices in Bangladesh",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"HRM 408",
+       "course_title":"Strategic Human Resource Management",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"HRM 404",
+       "course_title":"Training and Development",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"HRM 406",
+       "course_title":"Industrial Relations",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"HRM 409",
+       "course_title":"International Human Resource Management",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"HRM 410",
+       "course_title":"Industrial Psychology",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"HRM 411",
+       "course_title":"Conflict Management",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"ACT 404",
+       "course_title":"Intermediate Accounting",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"ACT 405",
+       "course_title":"Principles of Auditing",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"ACT 406",
+       "course_title":"Advanced Management Accounting",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"ACT 407",
+       "course_title":"Accounting Information System",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"ACT 408",
+       "course_title":"Security Analysis and Portfolio Management",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"ACT 409",
+       "course_title":"Advanced Accounting",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"ACT 410",
+       "course_title":"Accounting Theory",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"FIN 411",
+       "course_title":"Micro Finance",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"FIN 404",
+       "course_title":"Corporate Finance",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"FIN 406",
+       "course_title":"Management of Financial Institutions",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"FIN 407",
+       "course_title":"Investment Management",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"FIN 409",
+       "course_title":"International Financial Management",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"FIN 405",
+       "course_title":"Security Analysis and Portfolio Management",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"FIN 408",
+       "course_title":"Financial Analysis and Reporting",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"FIN 410",
+       "course_title":"Working Capital Management",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"FIN 411",
+       "course_title":"Micro Finance",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"MKT 403",
+       "course_title":"Consumer Behavior",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"MKT 407",
+       "course_title":"Marketing Research",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"MKT 409",
+       "course_title":"Service Marketing",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"MKT 410",
+       "course_title":"Strategic Marketing",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"MKT 404",
+       "course_title":"Integrated Marketing Communication",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"MKT 405",
+       "course_title":"Supply Chain Management",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"MKT 406",
+       "course_title":"E-Marketing",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    },
+    {
+       "course_code":"MKT 408",
+       "course_title":"Brand Management",
+       "theory_credit":"",
+       "lab_credit":"",
+       "total_credit":"",
+       "prerequisit":""
+    }
+ ]

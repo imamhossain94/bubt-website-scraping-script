@@ -11,8 +11,7 @@ def getEEECourse(programURL):
         programHTML = get(baseURL+programURL).text
         titles = BeautifulSoup(str(programHTML), 'html.parser').find_all('h4', class_='panel-title')
         bodys = BeautifulSoup(str(programHTML), 'html.parser').find_all('div', class_='panel-body')
-        with open('eee.html', 'w', encoding='utf-8') as f:
-            f.write(str(programHTML))
+
         for data in range(0,87):
             titleData = titles[data].a.text
             bodyData = bodys[data].find_all('p')

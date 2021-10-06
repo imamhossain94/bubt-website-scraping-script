@@ -15,20 +15,35 @@ def getCSECourse(programUrl):
             for row in rows[2:]:
                 cols = row.find_all('td')
                 if len(cols) > 0:
-                    localData = {
-                        'course_code': cols[0].text.strip(),
-                        'course_title': cols[1].text.strip(),
-                        'theory_credit': cols[2].text.strip(),
-                        'lab_credit': cols[3].text.strip(),
-                        'total_credit': cols[4].text.strip(),
-                        'prerequisit': cols[5].text.strip()
-                    }
-                    course_data.append(localData)  
+                    course_code = cols[0].text.strip()
+                    course_title = cols[1].text.strip()
+                    if ',' in course_code:
+                        for i in range(2):
+                            localData = {
+                                'course_code': course_code.split(',')[i].strip(),
+                                'course_title': course_title.split('&')[0].strip() if i == 0 else course_title.replace("& ", "").strip(),
+                                'theory_credit': cols[2].text.strip(),
+                                'lab_credit': cols[3].text.strip(),
+                                'total_credit': cols[4].text.strip(),
+                                'prerequisit': cols[5].text.strip()
+                            }
+                            course_data.append(localData)  
+                    else:
+                        localData = {
+                            'course_code': cols[0].text.strip(),
+                            'course_title': cols[1].text.strip(),
+                            'theory_credit': cols[2].text.strip(),
+                            'lab_credit': cols[3].text.strip(),
+                            'total_credit': cols[4].text.strip(),
+                            'prerequisit': cols[5].text.strip()
+                        }
+                        course_data.append(localData)  
         course_data = [x for x in course_data if x['course_code'] != 'CSE 4**']
         finalData['data'] = course_data
-        # print(json.dumps(finalData))  
+        print(json.dumps(finalData))  
     except Exception as ex:
         finalData = {'status': 'failed', 'reason': str(ex)} 
+        print(json.dumps(finalData)) 
     return finalData
 
 

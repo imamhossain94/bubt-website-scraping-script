@@ -27,7 +27,7 @@ def getCIVILCourse(programURL):
                     }
                     course_data.append(localData)  
         finalData['data'] = course_data
-        # print(json.dumps(finalData))  
+        print(json.dumps(finalData))  
     except Exception as ex:
         finalData = {'status': 'failed', 'reason': str(ex)} 
         # print(json.dumps(finalData))  

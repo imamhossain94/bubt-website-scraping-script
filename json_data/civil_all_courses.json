@@ -1,0 +1,492 @@
+{
+    "data":[
+       {
+          "course_code":"CE 111",
+          "course_title":"Analytical Mechanics",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":""
+       },
+       {
+          "course_code":"MATH 111",
+          "course_title":"Differential and Integral Calculus, matrices",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CHEM 113",
+          "course_title":"Chemistry I",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":""
+       },
+       {
+          "course_code":"PHY 121",
+          "course_title":"Physical Optics, Waves and Oscillation, Heat and Thermodynamics",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":""
+       },
+       {
+          "course_code":"HUM 101",
+          "course_title":"Bangladesh Studies",
+          "theory_credit":"2.0",
+          "lab_credit":"2.0",
+          "total_credit":"2.0",
+          "prerequisit":""
+       },
+       {
+          "course_code":"HUM 121",
+          "course_title":"English",
+          "theory_credit":"2.0",
+          "lab_credit":"2.0",
+          "total_credit":"2.0",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 110",
+          "course_title":"Civil Engineering Drawing",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CHEM 114",
+          "course_title":"Inorganic Quantitative Analysis",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"PHY 122",
+          "course_title":"Physics Laboratory",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 123",
+          "course_title":"Surveying",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":""
+       },
+       {
+          "course_code":"MATH 123",
+          "course_title":"Differential Equations and statistics",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":"MATH 111"
+       },
+       {
+          "course_code":"PHY 133",
+          "course_title":"Structure of Matter, Electricity and Magnetism and Modern Physics\n\n\nSelect one\n\n\n\n\nChemistry II",
+          "theory_credit":"Structure of Matter, Electricity and Magnetism and Modern Physics",
+          "lab_credit":"Select one",
+          "total_credit":"Select one",
+          "prerequisit":"Chemistry II"
+       },
+       {
+          "course_code":"EEE 131",
+          "course_title":"Basic Electrical Technology",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":""
+       },
+       {
+          "course_code":"HUM 115",
+          "course_title":"Sociology\n\n\nSelect one\n\n\n\n\nGovernment",
+          "theory_credit":"Sociology",
+          "lab_credit":"Select one",
+          "total_credit":"Select one",
+          "prerequisit":"Government"
+       },
+       {
+          "course_code":"CE 134",
+          "course_title":"Practical Surveying",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"HUM 132",
+          "course_title":"Developing English Language Skills",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 132",
+          "course_title":"Computer Aided Drawing",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 140",
+          "course_title":"Architechtural, Engineering and Planning Appreciation",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"SHOP 132",
+          "course_title":"Workshop Sessional",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 211",
+          "course_title":"Engineering Materials",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 213",
+          "course_title":"Mechanics of Solids I",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":"CE 111"
+       },
+       {
+          "course_code":"MATH 227",
+          "course_title":"Laplace Transform and Vector Analysis",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 215",
+          "course_title":"Numerical Methods",
+          "theory_credit":"2.0",
+          "lab_credit":"2.0",
+          "total_credit":"2.0",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ACT 211",
+          "course_title":"Accounting",
+          "theory_credit":"2.0",
+          "lab_credit":"2.0",
+          "total_credit":"2.0",
+          "prerequisit":""
+       },
+       {
+          "course_code":"HUM 227",
+          "course_title":"Engineering Economics",
+          "theory_credit":"2.0",
+          "lab_credit":"2.0",
+          "total_credit":"2.0",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 214",
+          "course_title":"Computer Programming Sessional",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 220",
+          "course_title":"Details of Construction",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 222",
+          "course_title":"Materials Sessional",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 238",
+          "course_title":"Quantity Surveying",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 217",
+          "course_title":"Environmental Engineering I",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 233",
+          "course_title":"Engineering Geology and Geomorphology",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 237",
+          "course_title":"Applied Mathematics for Engineers",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 223",
+          "course_title":"Mechanics of Solids II",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":"CE 213"
+       },
+       {
+          "course_code":"WRE 231",
+          "course_title":"Fluid Mechanics",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":""
+       },
+       {
+          "course_code":"WRE 232",
+          "course_title":"Fluid Mechanics (Sessional)",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 232",
+          "course_title":"Structural Mechanics and Materials (Sessional)",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 226",
+          "course_title":"Engineering Computations (Sessional)",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":"CE 214"
+       },
+       {
+          "course_code":"CE 234",
+          "course_title":"Geotechnical Engineering (Lab)",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 311",
+          "course_title":"Structural Analysis and Design I",
+          "theory_credit":"4.0",
+          "lab_credit":"4.0",
+          "total_credit":"4.0",
+          "prerequisit":"CE 223"
+       },
+       {
+          "course_code":"CE 313",
+          "course_title":"Principle of Soil Mechanics",
+          "theory_credit":"4.0",
+          "lab_credit":"4.0",
+          "total_credit":"4.0",
+          "prerequisit":"CE 233"
+       },
+       {
+          "course_code":"CE 315",
+          "course_title":"Design of Reinforced Concrete Structures I",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 323",
+          "course_title":"Environmental Engineering II",
+          "theory_credit":"4.0",
+          "lab_credit":"4.0",
+          "total_credit":"4.0",
+          "prerequisit":"CE 317"
+       },
+       {
+          "course_code":"CE 321",
+          "course_title":"Professional practices and communication",
+          "theory_credit":"2.0",
+          "lab_credit":"2.0",
+          "total_credit":"2.0",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 326",
+          "course_title":"Design of Reinforced Concrete Structures I",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 328",
+          "course_title":"Environmental Engineering",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 317",
+          "course_title":"Structural Analysis and Design II",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":"CE 311"
+       },
+       {
+          "course_code":"CE 325",
+          "course_title":"Design of Reinforced Concrete structure II",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":"CE 315"
+       },
+       {
+          "course_code":"CE 331",
+          "course_title":"Transportation Engineering I: Transportation planning and Traffic Engineering",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 337",
+          "course_title":"Design of Steel Structures",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":""
+       },
+       {
+          "course_code":"WRE 331",
+          "course_title":"Open Channel Flow",
+          "theory_credit":"4.0",
+          "lab_credit":"4.0",
+          "total_credit":"4.0",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 322",
+          "course_title":"Professional practices and communication",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 338",
+          "course_title":"Design of Steel Structure",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"WRE 332",
+          "course_title":"Open Channel Flow (Sessional)",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 413",
+          "course_title":"Project planning and construction management",
+          "theory_credit":"4.0",
+          "lab_credit":"4.0",
+          "total_credit":"4.0",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 417",
+          "course_title":"Transportation Engineering II: Pavement Design and Railway Engineering",
+          "theory_credit":"4.0",
+          "lab_credit":"4.0",
+          "total_credit":"4.0",
+          "prerequisit":"CE 331"
+       },
+       {
+          "course_code":"CE 421",
+          "course_title":"Foundation Engineering",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 423",
+          "course_title":"Socio Economic aspects of development projects",
+          "theory_credit":"2.0",
+          "lab_credit":"2.0",
+          "total_credit":"2.0",
+          "prerequisit":"Select one"
+       },
+       {
+          "course_code":"CE 412",
+          "course_title":"Transportation Engineering I: Highway Materials and Traffic Engineering Design (Sessional)",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 424",
+          "course_title":"Design of reinforced concrete structure II (Sess.)",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 402",
+          "course_title":"Industrial Training (CEIP)",
+          "theory_credit":"6.0",
+          "lab_credit":"1.0",
+          "total_credit":"1.0",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CE 400",
+          "course_title":"Project and thesis",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":""
+       }
+    ]
+ }

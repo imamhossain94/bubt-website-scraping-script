@@ -1,0 +1,772 @@
+{
+    "data":[
+       {
+          "course_code":"ENG 101",
+          "course_title":"English Language",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"MAT 101",
+          "course_title":"Mathematics \u2013 I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CHE 101",
+          "course_title":"Chemistry I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 101",
+          "course_title":"Introduction to Textile Engineering",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"2",
+          "prerequisit":""
+       },
+       {
+          "course_code":"MEC 102",
+          "course_title":"Engineering Drawing",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CHE 102",
+          "course_title":"Chemistry I (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CSC 102",
+          "course_title":"Introduction to Computer Applications",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"MAT 103",
+          "course_title":"Mathematics \u2013 II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"PHY 101",
+          "course_title":"Physics I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CHE 103",
+          "course_title":"Chemistry II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"MEC 101",
+          "course_title":"Engineering Materials",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"PHY 102",
+          "course_title":"Physics I Lab",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CHE 104",
+          "course_title":"Chemistry II Lab",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"CSC 104",
+          "course_title":"Introduction to Computer Programming",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 105",
+          "course_title":"Textile Raw Materials - I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"PHY 103",
+          "course_title":"Physics II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 103",
+          "course_title":"Polymer Science",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"STA 101",
+          "course_title":"Statistics for Engineering",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"2",
+          "prerequisit":""
+       },
+       {
+          "course_code":"PHY 104",
+          "course_title":"Physics II Lab",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"MEC 104",
+          "course_title":"Workshop Practice",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENG 201",
+          "course_title":"Business Communication",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"2",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 201",
+          "course_title":"Textile Raw Materials - II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"MEC 201",
+          "course_title":"Elements of Mechanical Engineering",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EEE 201",
+          "course_title":"Elements of Electrical Engineering & Electronics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"STA 102",
+          "course_title":"Statistical Data Analysis",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"MEC 202",
+          "course_title":"Elements of Mechanical engineering (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EEE 202",
+          "course_title":"Elements of Electrical Engineering & Electronics (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"MEC 203",
+          "course_title":"Elements of Theory of Machines & Machine Design",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 203",
+          "course_title":"Textile Physics \u2013 I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 205",
+          "course_title":"Yarn Manufacturing Technology - I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 207",
+          "course_title":"Fabric Manufacturing Technology - I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 206",
+          "course_title":"Yarn Manufacturing Technology \u2013 I (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 208",
+          "course_title":"Fabric Manufacturing Technology \u2013 I (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ECO 201",
+          "course_title":"Industrial Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"2",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 213",
+          "course_title":"Wet Processing Technology - I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 215",
+          "course_title":"Garments Manufacturing Technology - I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 305",
+          "course_title":"Textile Testing and Quality Cotrol - I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 214",
+          "course_title":"Wet Processing Technology \u2013 I (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 216",
+          "course_title":"Garments Manufacturing Technology \u2013 I (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 306",
+          "course_title":"Textile Testing and Quality Control \u2013 I (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"MGT 301",
+          "course_title":"Industrial Management",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 301",
+          "course_title":"Yarn Manufacturing Technology - II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 303",
+          "course_title":"Fabric Manufacturing Technology - II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 311",
+          "course_title":"Textile Physics - II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 302",
+          "course_title":"Yarn Manufacturing Technology \u2013II (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 304",
+          "course_title":"Fabric Manufacturing Technology \u2013II\u00a0 (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 211",
+          "course_title":"Fabric Structure and Design",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 307",
+          "course_title":"Wet Processing Technology - II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 309",
+          "course_title":"Garments Manufacturing Technology - II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 319",
+          "course_title":"Environment Engineering",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"2",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 212",
+          "course_title":"Fabric Structure and Design (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 308",
+          "course_title":"Wet Processing Technology - II (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 310",
+          "course_title":"Garments Manufacturing Technology \u2013 II (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 313",
+          "course_title":"Textile Testing and Quality Control - II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 315",
+          "course_title":"Production Planning & Control",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 317",
+          "course_title":"Application of computer in Textiles",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EEE 301",
+          "course_title":"Introduction to Microprocessor, Robotics & Control Engg.",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 314",
+          "course_title":"Textile Testing and Quality Control \u2013 II ( Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 318",
+          "course_title":"Application of computer in Textiles ( Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"FIN 401",
+          "course_title":"Financial Accounting & Marketing",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 401",
+          "course_title":"Yarn Manufacturing Technology - III (Optional)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 403",
+          "course_title":"Fabric Manufacturing Technology - III ( Optional)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"(Any one)",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 405",
+          "course_title":"Wet Processing Technology - III (Optional)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 407",
+          "course_title":"Garments Manufacturing Technology - III ( Optional)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 409",
+          "course_title":"Jute Processing Technology - I (optional)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE411",
+          "course_title":"Maintenance of Textile Machines YMT/FMT/ GMT/ WPT/JPT",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"2",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 421",
+          "course_title":"Special yarn Production",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"2",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 423",
+          "course_title":"Special Fabric Production",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"(Any one)",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 425",
+          "course_title":"Special Wet Processing Technology",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 427",
+          "course_title":"Special Garments Technology",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 429",
+          "course_title":"Diversified Jute Products.",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 402",
+          "course_title":"Yarn Manufacturing Technology - III (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 404",
+          "course_title":"Fabric Manufacturing Technology - III ( Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"(Any one)",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 406",
+          "course_title":"Wet Processing Technology-III (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 408",
+          "course_title":"Garments \u00a0Manufacturing Technology - III ( Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 410",
+          "course_title":"Jute Processing Technology - I (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 412",
+          "course_title":"Maintenance of Textile (YMT) Machines (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 414",
+          "course_title":"Maintenance of Textile (FMT) Machines (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"(Any one)",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 416",
+          "course_title":"Maintenance of Textile (WPT) Machines (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 418",
+          "course_title":"Maintenance of Textile (GMT) Machines (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 420",
+          "course_title":"Maintenance of Textile (JPT) Machines (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 443",
+          "course_title":"Compliance & Certification",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"2",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 431",
+          "course_title":"Yarn Manufacturing Technology - IV (Optional)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 433",
+          "course_title":"Fabric Manufacturing Technology - IV ( Optional)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"(Any one)",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 435",
+          "course_title":"Wet Processing Technology - IV (Optional)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 437",
+          "course_title":"Garments Manufacturing Technology - IV ( Optional)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 439",
+          "course_title":"Jute Processing Technology - II (optional)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 441",
+          "course_title":"Technical Textiles",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"2",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 432",
+          "course_title":"Yarn Manufacturing Technology - IV (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 434",
+          "course_title":"Fabric Manufacturing Technology - IV ( Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"(Any one)",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 436",
+          "course_title":"Wet Processing Technology-IV (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 438",
+          "course_title":"Apparel Manufacturing Technology - IV ( Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 440",
+          "course_title":"Jute Processing Technology - II (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":""
+       },
+       {
+          "course_code":"",
+          "course_title":"",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 448",
+          "course_title":"Industrial Training & Practice (8 weeks)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"TXE 450",
+          "course_title":"Project",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       }
+    ]
+ }

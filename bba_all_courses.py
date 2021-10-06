@@ -17,22 +17,22 @@ def getBBACourse(programUrl):
             cols = rows[row].find_all('td')
             if len(cols) > 0:
                 localData = {
-                        'course_code': cols[1].text.strip(),
-                        'course_title': cols[2].text.strip(),
-                        'theory_credit': '',
-                        'lab_credit': '',
-                        'total_credit': '',
-                        'prerequisit': ''
-                }
-            finalData.append(localData)
-        for item in listItem:
-            localData = {
-                    'course_code': item.text[0:7].strip(),
-                    'course_title': item.text[8:].strip(),
+                    'course_code': cols[1].text.strip(),
+                    'course_title': cols[2].text.strip(),
                     'theory_credit': '',
                     'lab_credit': '',
                     'total_credit': '',
                     'prerequisit': ''
+                }
+            finalData.append(localData)
+        for item in listItem:
+            localData = {
+                'course_code': item.text[0:7].strip(),
+                'course_title': item.text[8:].strip(),
+                'theory_credit': '',
+                'lab_credit': '',
+                'total_credit': '',
+                'prerequisit': ''
             }
             finalData.append(localData)
 

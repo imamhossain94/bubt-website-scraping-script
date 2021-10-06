@@ -1,0 +1,372 @@
+{
+    "data":[
+       {
+          "course_code":"EDE 113",
+          "course_title":"English Grammar, Composition and Comprehension",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 112",
+          "course_title":"Computer Operation and Application",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 114",
+          "course_title":"Environmental Science",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 122",
+          "course_title":"Mathematical Economics I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 132",
+          "course_title":"Mathematical Economics II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 212",
+          "course_title":"Mathematical Economics\u00a0 III",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 133",
+          "course_title":"Introduction to Statistics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 213",
+          "course_title":"Probability and Probability Distribution",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 222",
+          "course_title":"Statistical Methods and Applications",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 123",
+          "course_title":"Sociology",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 134",
+          "course_title":"Money and Banking",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 124",
+          "course_title":"Introduction to Business",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 111",
+          "course_title":"Introduction to Microeconomics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 131",
+          "course_title":"Intermediate Microeconomics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 221",
+          "course_title":"Microeconomic Analysis",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 121",
+          "course_title":"Introduction to Macroeconomics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 211",
+          "course_title":"Intermediate Macroeconomics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 231",
+          "course_title":"Macroeconomic Analysis",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 311",
+          "course_title":"Introduction to Econometrics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 321",
+          "course_title":"Econometric Theory",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 312",
+          "course_title":"Development Economics I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 322",
+          "course_title":"Development Economics II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 224",
+          "course_title":"Agricultural Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 214",
+          "course_title":"Global Environmental Issues and Policies",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 223",
+          "course_title":"Public Finance",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 333",
+          "course_title":"Resource Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 233",
+          "course_title":"Environmental Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 313",
+          "course_title":"Industrial Organization and Behavior",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 324",
+          "course_title":"Research Methodology",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 334",
+          "course_title":"Environment and Health",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 234",
+          "course_title":"Selected Issues of Bangladesh Economy",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 323",
+          "course_title":"Project Analysis and Evaluation",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 331",
+          "course_title":"Labor Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 332",
+          "course_title":"Urban Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 232",
+          "course_title":"International\u00a0 Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 314",
+          "course_title":"Environmental Valuation",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 411",
+          "course_title":"Gender Issues and Sustainable Development",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 412",
+          "course_title":"Comparative Economic Development",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 413",
+          "course_title":"Sustainable Development",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 414",
+          "course_title":"Understanding Globalization",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 421",
+          "course_title":"Environmental Hazards in Bangladesh",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 422",
+          "course_title":"Applied Econometrics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 423",
+          "course_title":"Environmental Law and Ethics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 424",
+          "course_title":"Energy Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 431",
+          "course_title":"Environmental Organizations",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       },
+       {
+          "course_code":"EDE 432",
+          "course_title":"Welfare Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":""
+       }
+    ]
+ }

@@ -1,0 +1,94 @@
+{
+    "data":[
+       {
+          "teacher_name":"Prof. Dr. Ali Ahmed",
+          "teacher_code":"Prof. Dr. Ali Ahmed",
+          "email":"dr.aliahmed@bubt.edu.bd",
+          "designation":"Professor, Dean & Chairman",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/380",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/civil/Prof.%20Dr.%20Ali%20Ahmed_2550.png"
+       },
+       {
+          "teacher_name":"Md. Alamgir Kabir",
+          "teacher_code":"Md. Alamgir Kabir",
+          "email":"alamgirkabir319@gmail.com",
+          "designation":"Assistant Professor, EEE",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/381",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/civil/Md.%20Alamgir%20Kabir_3624.png"
+       },
+       {
+          "teacher_name":"Kanij Fatema",
+          "teacher_code":"Kanij Fatema",
+          "email":"priankajun@gmail.com",
+          "designation":"Lecturer, EEE",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/383",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/civil/Kanij%20Fatema_2686.png"
+       },
+       {
+          "teacher_name":"Sarwar Ahmed",
+          "teacher_code":"Sarwar Ahmed",
+          "email":"sarwarahmed@iut-dhaka.edu",
+          "designation":"Lecturer, EEE",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/384",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/civil/Sarwar%20Ahmed_3991.png"
+       },
+       {
+          "teacher_name":"Abdullah Bin Samad",
+          "teacher_code":"Abdullah Bin Samad",
+          "email":"absjohurul01725@gmail.com",
+          "designation":"Lecturer, Textile",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/386",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/civil/Abdullah%20Bin%20Samad_2604.png"
+       },
+       {
+          "teacher_name":"Mohammad Kamrul Hasan",
+          "teacher_code":"Mohammad Kamrul Hasan",
+          "email":"krul.habi@yahoo.com",
+          "designation":"Assistant Professor, Mathematics",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/387",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/civil/Mohammad%20Kamrul%20Hasan_7357.png"
+       },
+       {
+          "teacher_name":"Mohammad Khairul Alam",
+          "teacher_code":"Mohammad Khairul Alam",
+          "email":"mkalam@bubt.edu.bd",
+          "designation":"Assistant Professor, Mathematics",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/388",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/civil/Mohammad%20Khairul%20Alam_3915.png"
+       },
+       {
+          "teacher_name":"Md. Anwar Hossen",
+          "teacher_code":"Md. Anwar Hossen",
+          "email":"a.hossen@bubt.edu.bd",
+          "designation":"Assistant Professor, Economics",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/389",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/civil/Md.%20Anwar%20Hossen_8599.png"
+       },
+       {
+          "teacher_name":"Tahmina Akhter",
+          "teacher_code":"Tahmina Akhter",
+          "email":"taharania37@gmail.com",
+          "designation":"Assistant Professor, Economics",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/390",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/civil/Tahmina%20Akhter_3925.png"
+       },
+       {
+          "teacher_name":"Mr. Kazal Kumar Das",
+          "teacher_code":"Mr. Kazal Kumar Das",
+          "email":"kazal.k@bubt.edu.bd",
+          "designation":"Lecturer, English",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/391",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/civil/Mr.%20Kazal%20Kumar%20Das_6682.png"
+       }
+    ]
+ }

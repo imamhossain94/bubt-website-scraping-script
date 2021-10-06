@@ -44,7 +44,7 @@ def getEmaiAddress(url):
     return emailAddress
 
 
-def getCSEFaculties(facultyUrl):
+def getEEEFaculties(facultyUrl):
     finalData = {'data': list()}
     try:
         facultyUrl = get(baseURL+facultyUrl).text
@@ -78,4 +78,4 @@ def getCSEFaculties(facultyUrl):
     return finalData
 
 
-getCSEFaculties("/home/faculty_member/eee")
+getEEEFaculties("/home/faculty_member/eee")

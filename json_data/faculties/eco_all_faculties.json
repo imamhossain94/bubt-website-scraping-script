@@ -1,0 +1,121 @@
+{
+    "data":[
+       {
+          "teacher_name":"Sirajul Islam",
+          "teacher_code":"MSI",
+          "email":"sirajul@bubt.edu.bd",
+          "designation":"Assistant Professor & Chairman (Acting)",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/182",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/eco/Sirajul%20Islam_3267.png"
+       },
+       {
+          "teacher_name":"Md. Mahmudul Hassan",
+          "teacher_code":"MHN",
+          "email":"mhsnju@gmail.com",
+          "designation":"Associate Professor",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/185",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/eco/Md.%20Mahmudul%20Hassan_2498.png"
+       },
+       {
+          "teacher_name":"Mahmuda Jahan Papia",
+          "teacher_code":"MJP",
+          "email":"mahmudapapia24@gmai.com",
+          "designation":"Assistant Professor",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/183",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/eco/Mahmuda%20Jahan%20Papia_1140.png"
+       },
+       {
+          "teacher_name":"Md. Rejaul Karim",
+          "teacher_code":"MRK",
+          "email":"rejaul.k@bubt.edu.bd",
+          "designation":"Assistant Professor",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/189",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/eco/Md.%20Rejaul%20Karim_2984.png"
+       },
+       {
+          "teacher_name":"Md. Aminul Islam",
+          "teacher_code":"AI",
+          "email":"aminul.econ@gmail.com",
+          "designation":"Assistant Professor",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/190",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/eco/Md.%20Aminul%20Islam_6362.png"
+       },
+       {
+          "teacher_name":"Md. Anwar Hossen",
+          "teacher_code":"AWR",
+          "email":"a.hossen@bubt.edu.bd",
+          "designation":"Assistant Professor",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/192",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/eco/Md.%20Anwar%20Hossen_6619.png"
+       },
+       {
+          "teacher_name":"Tahmina Akhter",
+          "teacher_code":"TAK",
+          "email":"taharania37@gmail.com",
+          "designation":"Assistant Professor",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/191",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/eco/Tahmina%20Akhter_4994.png"
+       },
+       {
+          "teacher_name":"Tareq Imam Zahid",
+          "teacher_code":"TIZ",
+          "email":"tareqimamzahid@yahoo.com",
+          "designation":"Assistant Professor",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/188",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/eco/Tareq%20Imam%20Zahid_7168.png"
+       },
+       {
+          "teacher_name":"Md. Rakibul Islam",
+          "teacher_code":"MRI",
+          "email":"rakibulislam22@gmail.com",
+          "designation":"Lecturer",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/193",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/eco/Md.%20Rakibul%20Islam_5432.png"
+       },
+       {
+          "teacher_name":"Mst. Amina Khatun",
+          "teacher_code":"AMK",
+          "email":"ranu.socdu@gmail.com",
+          "designation":"Lecturer",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/195",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/eco/Mst.%20Amina%20Khatun_7285.png"
+       },
+       {
+          "teacher_name":"Dr. Umme Habiba Rahman",
+          "teacher_code":"UHR",
+          "email":"uhrahman74@gmail.com",
+          "designation":"Lecturer",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/316",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/eco/Dr.%20Umme%20Habiba%20Rahman_6946.png"
+       },
+       {
+          "teacher_name":"Anowara Khanam",
+          "teacher_code":"AWK",
+          "email":"anowarabubt02@gmail.com",
+          "designation":"Assistant Professor",
+          "status":"on Study Leave",
+          "link":"https://www.bubt.edu.bd/department/member_details/186",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/eco/Anowara%20Khanam_1404.png"
+       },
+       {
+          "teacher_name":"Moushumi Dhar",
+          "teacher_code":"MDH",
+          "email":"mouju33@yahoo.com",
+          "designation":"Assistant Professor",
+          "status":"on Maternity Leave",
+          "link":"https://www.bubt.edu.bd/department/member_details/187",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/eco/Moushumi%20Dhar_5907.png"
+       }
+    ]
+ }

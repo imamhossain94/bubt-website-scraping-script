@@ -12,10 +12,11 @@ from firebase_admin import credentials
 
 
 baseURL = 'https://www.bubt.edu.bd'
-cred = credentials.Certificate("serviceAccountKey.json")
+cred = credentials.Certificate("serviceAccountKey.json") #firebase service account json key
 firebase_admin.initialize_app(cred, {'storageBucket': 'bubt-smart-routine.appspot.com'})
 
 
+# decode base64 string and upload it into firebase to get short image link
 def uploadImageFile(fileName, stringFile):
     try:
         randId = random.randint(1000,9000)

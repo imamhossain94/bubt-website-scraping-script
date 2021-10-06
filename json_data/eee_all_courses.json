@@ -1,0 +1,700 @@
+{
+    "data":[
+       {
+          "course_code":"ENGLISH LANGUAGE I",
+          "course_title":"ENG 101",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENGLISH LANGUAGE II",
+          "course_title":"ENG 102",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"ENG 101"
+       },
+       {
+          "course_code":"CO-ORDINATE GEOMETRY AND LINEAR ALGEBRA",
+          "course_title":"MAT 101",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"ENG 101"
+       },
+       {
+          "course_code":"DIFFERENTIAL AND INTEGRAL CALCULUS",
+          "course_title":"MAT 102",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"MAT 101"
+       },
+       {
+          "course_code":"ORDINARY AND PARTIAL DIFFERENTIAL EQUATIONS",
+          "course_title":"MAT 103",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"MAT 102"
+       },
+       {
+          "course_code":"VECTOR, COMPLEX VARIABLE, LAPLACE TRANSFORM AND FOURIER ANALYSIS",
+          "course_title":"MAT 201",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"MAT 103"
+       },
+       {
+          "course_code":"STATISTICS & PROBABILITY DISTRIBUTION",
+          "course_title":"STA 201",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":""
+       },
+       {
+          "course_code":"PRINCIPLES OF ECONOMICS",
+          "course_title":"ECO 101",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ACCOUNTING FUNDAMENTALS",
+          "course_title":"ACT 101",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":""
+       },
+       {
+          "course_code":"STRUCTURE PROGRAMMING LANGUAGE",
+          "course_title":"CSE 201",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"CSE 101"
+       },
+       {
+          "course_code":"STRUCTURE PROGRAMMING LANGUAGE LAB",
+          "course_title":"CSE 202",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"CSE 101"
+       },
+       {
+          "course_code":"BANGLADESH STUDIES",
+          "course_title":"HUM 101",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"None"
+       },
+       {
+          "course_code":"PROFESSIONAL ETHICS",
+          "course_title":"HUM 201",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"None"
+       },
+       {
+          "course_code":"MECHANICAL ENGINEERING FUNDAMENTALS",
+          "course_title":"ME 101",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":""
+       },
+       {
+          "course_code":"INDUSTRIAL MANAGEMENT",
+          "course_title":"MGT 301",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":""
+       },
+       {
+          "course_code":"INTRODUCTION TO CHEMISTRY",
+          "course_title":"CHE 101",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":""
+       },
+       {
+          "course_code":"PHYSICS-I",
+          "course_title":"Thermodynamics, Materials, Waves and Oscillations, Optics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":""
+       },
+       {
+          "course_code":"PHYSICS-I LABORATORY",
+          "course_title":"PHY 102",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":""
+       },
+       {
+          "course_code":"PHYSICS-II",
+          "course_title":"Electricity and Magnetism, Modern Physics and Quantum Mechanics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"PHY-101"
+       },
+       {
+          "course_code":"PHYSICS-II LABORATORY",
+          "course_title":"PHY 104",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"PHY 102"
+       },
+       {
+          "course_code":"NUMERICAL ANALYSIS FOR ELECTRICAL ENGINEERING",
+          "course_title":"EEE 321",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"MAT 210, CSE 103"
+       },
+       {
+          "course_code":"NUMERICAL ANALYSIS FOR ELECTRICAL ENGINEERING LABORATORY",
+          "course_title":"EEE 322",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"CSE 104"
+       },
+       {
+          "course_code":"CONTROL SYSTEM DESIGN",
+          "course_title":"EEE 323",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 207, EEE 209"
+       },
+       {
+          "course_code":"CONTROL SYSTEM DESIGN LABORATORY",
+          "course_title":"EEE 324",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 208, EEE 210"
+       },
+       {
+          "course_code":"BIOMEDICAL ENGINEERING",
+          "course_title":"EEE 325",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 103, EEE 303"
+       },
+       {
+          "course_code":"BIOMEDICAL ENGINEERING LABORATORY",
+          "course_title":"EEE 326",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 104, EEE 304"
+       },
+       {
+          "course_code":"ELECTRICAL CIRCUITS I",
+          "course_title":"EEE 101",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"PHY 103"
+       },
+       {
+          "course_code":"ELECTRICAL CIRCUITS I LABORATORY",
+          "course_title":"EEE 102",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"PHY 104"
+       },
+       {
+          "course_code":"ELECTRICAL CIRCUITS II",
+          "course_title":"EEE 103",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 101"
+       },
+       {
+          "course_code":"ELECTRICAL CIRCUITS II LABORATORY",
+          "course_title":"EEE 104",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 102"
+       },
+       {
+          "course_code":"ELECTRONIC CIRCUITS I",
+          "course_title":"EEE 201",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 101"
+       },
+       {
+          "course_code":"ELECTRONIC CIRCUITS I LABORATORY",
+          "course_title":"EEE 202",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 102"
+       },
+       {
+          "course_code":"ENERGY CONVERSION I",
+          "course_title":"EEE 203",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 103"
+       },
+       {
+          "course_code":"ELECTRONIC CIRCUITS II",
+          "course_title":"EEE 207",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 201"
+       },
+       {
+          "course_code":"ELECTRONIC CIRCUITS II LABORATORY",
+          "course_title":"EEE 208",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 202"
+       },
+       {
+          "course_code":"ENERGY CONVERSION II",
+          "course_title":"EEE 209",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 203"
+       },
+       {
+          "course_code":"ENERGY CONVERSION II LABORATORY",
+          "course_title":"EEE 210",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 204"
+       },
+       {
+          "course_code":"ENGINEERING ELECTROMAGNETIC",
+          "course_title":"EEE 211",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"PHY 103"
+       },
+       {
+          "course_code":"CONTINUOUS SIGNALS AND LINEAR SYSTEMS",
+          "course_title":"EEE 301",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"PHY 101"
+       },
+       {
+          "course_code":"DIGITAL ELECTRONICS",
+          "course_title":"EEE 303",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 207"
+       },
+       {
+          "course_code":"DIGITAL ELECTRONICS LABORATORY",
+          "course_title":"EEE 304",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 208"
+       },
+       {
+          "course_code":"POWER SYSTEM I",
+          "course_title":"EEE 305",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 209"
+       },
+       {
+          "course_code":"POWER SYSTEM I LABORATORY",
+          "course_title":"EEE 306",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 208"
+       },
+       {
+          "course_code":"TELECOMMUNICATION ENGINEERING",
+          "course_title":"EEE 307",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 207"
+       },
+       {
+          "course_code":"TELECOMMUNICATION ENGINEERING LABORATORY",
+          "course_title":"EEE 308",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 208"
+       },
+       {
+          "course_code":"ELECTRONIC PROPERTIES OF MATERIALS",
+          "course_title":"EEE 309",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"PHY 103"
+       },
+       {
+          "course_code":"DIGITAL SIGNAL PROCESSING I",
+          "course_title":"EEE 313",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"PHY 103"
+       },
+       {
+          "course_code":"DIGITAL SIGNAL PROCESSING I LABORATORY",
+          "course_title":"EEE 314",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":""
+       },
+       {
+          "course_code":"MICROPROCESSOR AND INTERFACING",
+          "course_title":"EEE 319",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 303"
+       },
+       {
+          "course_code":"MICROPROCESSOR AND INTERFACING LABORATORY",
+          "course_title":"EEE 320",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 304"
+       },
+       {
+          "course_code":"PROJECT/THESIS",
+          "course_title":"EEE 400",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"6.00",
+          "prerequisit":"All courses of English, GED, Basic Science, Program core and Interdisciplinary\u00a0 engineering courses."
+       },
+       {
+          "course_code":"VLSI CIRCUITS I",
+          "course_title":"EEE 429",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 303"
+       },
+       {
+          "course_code":"VLSI CIRCUITS I LABORATORY",
+          "course_title":"EEE 430",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 304"
+       },
+       {
+          "course_code":"ANALOG INTEGRATED CIRCUITS",
+          "course_title":"EEE 431",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 207"
+       },
+       {
+          "course_code":"SEMICONDUCTOR DEVICES",
+          "course_title":"EEE 433",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 309"
+       },
+       {
+          "course_code":"OPTOELCTRONICS",
+          "course_title":"EEE 435",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 207, EEE 309"
+       },
+       {
+          "course_code":"DIGITAL INTEGRATED CIRCUIT DESIGN",
+          "course_title":"EEE 443",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE \u00a0429"
+       },
+       {
+          "course_code":"VLSI CIRCUITS II",
+          "course_title":"EEE 445",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 311"
+       },
+       {
+          "course_code":"VLSI CIRCUITS II LABORATORY",
+          "course_title":"EEE 446",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 312"
+       },
+       {
+          "course_code":"RANDOM SIGNALS AND PROCESS",
+          "course_title":"EEE 451",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 313"
+       },
+       {
+          "course_code":"MOBILE CELLULAR COMMUNICATION",
+          "course_title":"EEE 453",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 307"
+       },
+       {
+          "course_code":"OPTICAL FIBER COMMUNICATION",
+          "course_title":"EEE 455",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 307"
+       },
+       {
+          "course_code":"DIGITAL SIGNAL PROCESSING II",
+          "course_title":"EEE 457",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 313"
+       },
+       {
+          "course_code":"DIGITAL COMMUNICATION",
+          "course_title":"EEE 461",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 307, EEE 313"
+       },
+       {
+          "course_code":"DIGITAL COMMUNICATION LABORATORY",
+          "course_title":"EEE 462",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 314"
+       },
+       {
+          "course_code":"MICROWAVE ENGINEERING",
+          "course_title":"EEE 463",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 307"
+       },
+       {
+          "course_code":"MICROWAVE ENGINEERING LABORATORY",
+          "course_title":"EEE 464",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 308"
+       },
+       {
+          "course_code":"INFORMATION AND CODING",
+          "course_title":"EEE 465",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":""
+       },
+       {
+          "course_code":"DISCRETE MATHEMATICS",
+          "course_title":"CSE 409",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"MAT 102"
+       },
+       {
+          "course_code":"COMPUTER ARCHITECTURE",
+          "course_title":"CSE 441",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"CSE 201"
+       },
+       {
+          "course_code":"MATHEMATICAL ANALYSIS FOR COMPUTER SCIENCE",
+          "course_title":"CSE  413",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"MAT 201"
+       },
+       {
+          "course_code":"DIGITAL COMPUTER DESIGN",
+          "course_title":"CSE 415",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"CSE 213, CSE 401"
+       },
+       {
+          "course_code":"OBJECT ORIENTED PROGRAMMING LANGUAGE",
+          "course_title":"CSE 417",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"CSE 103"
+       },
+       {
+          "course_code":"OBJECT ORIENTED PROGRAMMING LANGUAGE LAB",
+          "course_title":"CSE 418",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"CSE 104"
+       },
+       {
+          "course_code":"COMPUTER NETWORKS",
+          "course_title":"CSE 419",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"CSE 103, EEE 307"
+       },
+       {
+          "course_code":"COMPUTER NETWORKS LABORATORY",
+          "course_title":"CSE 420",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"CSE 104"
+       },
+       {
+          "course_code":"MICROPROCESSOR BASED SYSTEM DESIGN",
+          "course_title":"CSE 421",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 317, EEE 401"
+       },
+       {
+          "course_code":"MICROPROCESSOR BASED SYSTEM DESIGN LAB",
+          "course_title":"CSE 422",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 402"
+       },
+       {
+          "course_code":"POWER SYSTEM II",
+          "course_title":"EEE 471",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":""
+       },
+       {
+          "course_code":"ENERGY CONVERSION III",
+          "course_title":"EEE 473",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":""
+       },
+       {
+          "course_code":"POWER PLANT ENGINEERING",
+          "course_title":"EEE 475",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":""
+       },
+       {
+          "course_code":"POWER ELECTRONICS",
+          "course_title":"EEE 477",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":""
+       },
+       {
+          "course_code":"POWER ELECTRONICS LABORATORY",
+          "course_title":"EEE 478",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":""
+       },
+       {
+          "course_code":"POWER SYSTEM RELIABILITY",
+          "course_title":"EEE 479",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":""
+       },
+       {
+          "course_code":"POWER SYSTEM PROTECTION",
+          "course_title":"EEE 481",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":""
+       },
+       {
+          "course_code":"POWER SYSTEM PROTECTION LABORATORY",
+          "course_title":"EEE 482",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":""
+       },
+       {
+          "course_code":"HIGH VOLTAGE ENGINEERING",
+          "course_title":"EEE 483",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":""
+       }
+    ]
+ }

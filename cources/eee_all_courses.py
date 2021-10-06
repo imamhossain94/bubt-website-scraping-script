@@ -22,15 +22,15 @@ def getEEECourse(programURL):
                 if "Prerequisite" in body.text:
                     prerequisite = body.text
             localData = {
-                'course_code': titleData.split(" (")[0],
-                'course_title': titleData.split(" (")[1].replace(')',''),
+                'course_code': titleData.split(" (")[0].strip(),
+                'course_title': titleData.split(" (")[1].replace(')','').strip(),
                 'theory_credit': '',
                 'lab_credit': '',
-                'total_credit': credits.replace('Credits: ',''),
-                'prerequisit': prerequisite.replace('Prerequisite: ','')
+                'total_credit': credits.replace('Credits: ','').strip(),
+                'prerequisit': prerequisite.replace('Prerequisite:','').replace('none', '').strip()
             }
             finalData['data'].append(localData)
-        # print(json.dumps(finalData))
+        print(json.dumps(finalData))
     except Exception as ex:
         finalData = {'status': 'failed', 'reason': str(ex)} 
     return finalData

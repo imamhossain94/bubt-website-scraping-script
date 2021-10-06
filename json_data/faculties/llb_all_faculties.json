@@ -1,0 +1,121 @@
+{
+    "data":[
+       {
+          "teacher_name":"Dr. Md. Nahidul Islam",
+          "teacher_code":"DMNI",
+          "email":"jsnahid07law@gmail.com",
+          "designation":"Associate Professor",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/377",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/llb/Dr.%20Md.%20Nahidul%20Islam_3395.png"
+       },
+       {
+          "teacher_name":"Ms. Falguni Mozammel",
+          "teacher_code":"FM",
+          "email":"moonru53@gmail.com",
+          "designation":"Assistant Professor",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/29",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/llb/Ms.%20Falguni%20Mozammel_1963.png"
+       },
+       {
+          "teacher_name":"Subrina Akter",
+          "teacher_code":"SA",
+          "email":"subrina.zoha@gmail.com",
+          "designation":"Assistant Professor",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/30",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/llb/Subrina%20Akter_1686.png"
+       },
+       {
+          "teacher_name":"Md. Ashif-Ul-Haque",
+          "teacher_code":"AUH",
+          "email":"asiflaw34@gmail.com",
+          "designation":"Assistant Professor",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/34",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/llb/Md.%20Ashif-Ul-Haque_4564.png"
+       },
+       {
+          "teacher_name":"Shabnam Jahan",
+          "teacher_code":"SJ",
+          "email":"islam16s@gmail.com",
+          "designation":"Lecturer",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/227",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/llb/Shabnam%20Jahan_2167.png"
+       },
+       {
+          "teacher_name":"Mr. Ariful Islam",
+          "teacher_code":"MAI",
+          "email":"ariflaw.iu@gmail.com",
+          "designation":"Lecturer",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/36",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/llb/Mr.%20Ariful%20Islam_6493.png"
+       },
+       {
+          "teacher_name":"Tanzima Akter Sumi",
+          "teacher_code":"TASU",
+          "email":"tanzima.sumi@yahoo.com",
+          "designation":"Lecturer",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/39",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/llb/Tanzima%20Akter%20Sumi_1859.png"
+       },
+       {
+          "teacher_name":"Md. Minhajul Abedin Chowdhury",
+          "teacher_code":"MAC",
+          "email":"chowdhuryminhajulabedin@gmail.com",
+          "designation":"Lecturer",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/42",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/llb/Md.%20Minhajul%20Abedin%20Chowdhury_1193.png"
+       },
+       {
+          "teacher_name":"Khaledur Rahman",
+          "teacher_code":"KRA",
+          "email":"khaled.r@bubt.edu.bd",
+          "designation":"Lecturer",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/228",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/llb/Khaledur%20Rahman_3279.png"
+       },
+       {
+          "teacher_name":"Khan Habiba Mustarin",
+          "teacher_code":"KHM",
+          "email":"habibamustarin@yahoo.com",
+          "designation":"Lecturer",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/342",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/llb/Khan%20Habiba%20Mustarin_8903.png"
+       },
+       {
+          "teacher_name":"Abdullah Al Mamun",
+          "teacher_code":"AAAM",
+          "email":"mdmamun463@gmail.com",
+          "designation":"Lecturer",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/351",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/llb/Abdullah%20Al%20Mamun_2001.png"
+       },
+       {
+          "teacher_name":"Fairooz Aanika Dipinty",
+          "teacher_code":"FAD",
+          "email":"</p>",
+          "designation":"Lecturer",
+          "status":"",
+          "link":"https://www.bubt.edu.bd/department/member_details/453",
+          "image":""
+       },
+       {
+          "teacher_name":"Ms. Samira Rahat Mohana",
+          "teacher_code":"SRM",
+          "email":"mohana@bubt.edu.bd",
+          "designation":"Assistant Professor",
+          "status":"on Study Leave",
+          "link":"https://www.bubt.edu.bd/department/member_details/33",
+          "image":"https://storage.googleapis.com/bubt-smart-routine.appspot.com/llb/Ms.%20Samira%20Rahat%20Mohana_1736.png"
+       }
+    ]
+ }

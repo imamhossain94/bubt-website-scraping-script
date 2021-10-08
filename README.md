@@ -17,27 +17,27 @@ I am not sharing some api script with you due to security reason. And I am requi
 ## API Contribution
 * <a href="https://github.com/xaadu">API BY BUBT</a>
 
-           •Student Verify 
-           •Faculty Verify
+       •Student Verify 
+       •Faculty Verify
 * <a href="https://github.com/xaadu">Abdullah Xayed</a>
 
-           •Annex Login 
-           •Annex Result 
-           •Annex Fees 
-           •Annex Routine 
-           •All Events 
-           •Event Details 
-           •All Notices 
-           •Notice Details 
+       •Annex Login 
+       •Annex Result 
+       •Annex Fees 
+       •Annex Routine 
+       •All Events 
+       •Event Details 
+       •All Notices 
+       •Notice Details 
 * <a href="https://github.com/xaadu">Md. Imam Hossain</a>
 
-           •Courses API Scrit: CSE, EEE, CIVIL, TEXTILE, BBA, ECO, EDE, LLB, ENG.
-           •Faculty API Script: CSE, EEE, CIVIL, TEXTILE, BBA, ECO, EDE, LLB, ENG.
-           •Notice 
-           •Notice Details 
-           •Events 
-           •Events Details 
-           •Routine API
+       •Courses API Scrit: CSE, EEE, CIVIL, TEXTILE, BBA, ECO, EDE, LLB, ENG.
+       •Faculty API Script: CSE, EEE, CIVIL, TEXTILE, BBA, ECO, EDE, LLB, ENG.
+       •Notice 
+       •Notice Details 
+       •Events 
+       •Events Details 
+       •Routine API
     
 ### API Response & Type
 BUBT API:

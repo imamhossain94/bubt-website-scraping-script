@@ -204,6 +204,67 @@ Annex Routine:
 }
 ```
 
+All Events:
+```json
+{
+  "data": [
+    {
+      "published_on": "5 Aug 2021",
+      "title": "International Conference on Science and Contemporary Technologies (ICSCT) Opened at BUBT",
+      "url": "https://www.bubt.edu.bd/home/event_details/200"
+    }
+  ],
+  "status": "success"
+}
+```
+
+Annex Notices:
+```json
+{
+  "data": [
+      {
+        "category": "Exam Related",
+        "published_on": "8 Oct 2021",
+        "title": "Defense Notice",
+        "url": "https://www.bubt.edu.bd/home/notice_details/665"
+      }
+  ],
+  "status": "success"
+}
+```
+
+Events Details:
+```json
+{
+    "data": {
+      "description": "Bangladesh University of  Business and Technology  (BUBT) organized a virtual Orientation  Program for Spring 2021 Students on April 22, 2021....",
+      "downloads": [
+        {
+          "url": ""
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.bubt.edu.bd/assets/frontend/media/1619504011BUBT_22_04__2021.jpg"
+        }
+      ],
+      "pubDate": "25 Apr 2021",
+      "title": "Virtual Orientation for Spring 2021 Students at BUBT"
+    },
+    "status": "success"
+  }
+```
+
+
+Annex Login:
+```json
+{
+  "PHPSESSID": "7d1755fe6c32b74d321fe3d3ba69a4ad",
+  "status": "success"
+}
+```
+
+
 Annex Login:
 ```json
 {

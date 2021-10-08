@@ -1,0 +1,607 @@
+{
+    "data": [
+      {
+        "cgpa": "3.22",
+        "results": [
+          {
+            "code": "ENG 101",
+            "credit": "3",
+            "grade": "B-",
+            "title": "English Language-I",
+            "type": "Theory"
+          },
+          {
+            "code": "PHY 101",
+            "credit": "3",
+            "grade": "B",
+            "title": "Physics",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 102",
+            "credit": "1.5",
+            "grade": "A-",
+            "title": "Computer and Programming Concepts Lab",
+            "type": "Lab"
+          },
+          {
+            "code": "MAT 101",
+            "credit": "3",
+            "grade": "B",
+            "title": "Differential and Integral Calculus",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 101",
+            "credit": "3",
+            "grade": "A+",
+            "title": "Computer and Programming Concepts",
+            "type": "Theory"
+          }
+        ],
+        "semester": "Fall, 2017-18",
+        "sgpa": "3.22"
+      },
+      {
+        "cgpa": "3.07",
+        "results": [
+          {
+            "code": "EEE 102",
+            "credit": "1.5",
+            "grade": "A+",
+            "title": "Electrical Technology Lab",
+            "type": "Lab"
+          },
+          {
+            "code": "CSE 111",
+            "credit": "3",
+            "grade": "B",
+            "title": "Structured Programming Language",
+            "type": "Theory"
+          },
+          {
+            "code": "MAT 111",
+            "credit": "3",
+            "grade": "B-",
+            "title": "Co-Ordinate Geometry and Vector Calculus",
+            "type": "Theory"
+          },
+          {
+            "code": "EEE 101",
+            "credit": "3",
+            "grade": "B-",
+            "title": "Electrical Technology",
+            "type": "Theory"
+          },
+          {
+            "code": "ENG 111",
+            "credit": "3",
+            "grade": "C",
+            "title": "English Language-II",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 112",
+            "credit": "1.5",
+            "grade": "A",
+            "title": "Structured Programming Language Lab",
+            "type": "Lab"
+          }
+        ],
+        "semester": "Spring, 2018",
+        "sgpa": "2.93"
+      },
+      {
+        "cgpa": "2.96",
+        "results": [
+          {
+            "code": "CSE 122",
+            "credit": "1.5",
+            "grade": "F",
+            "title": "Object Oriented Programming Language Lab",
+            "type": "Lab"
+          },
+          {
+            "code": "CSE 100",
+            "credit": "0.75",
+            "grade": "A+",
+            "title": "Software Development I",
+            "type": "Lab"
+          },
+          {
+            "code": "MAT 121",
+            "credit": "3",
+            "grade": "D",
+            "title": "Linear Algebras and Differential Equations",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 121",
+            "credit": "3",
+            "grade": "C+",
+            "title": "Object Oriented Programming Language",
+            "type": "Theory"
+          },
+          {
+            "code": "ECO 101",
+            "credit": "2",
+            "grade": "C+",
+            "title": "Principles of Economics",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 103",
+            "credit": "3",
+            "grade": "B",
+            "title": "Discrete Mathematics",
+            "type": "Theory"
+          }
+        ],
+        "semester": "Summer, 2018",
+        "sgpa": "2.63"
+      },
+      {
+        "cgpa": "3.15",
+        "results": [
+          {
+            "code": "EEE 212",
+            "credit": "1.5",
+            "grade": "B-",
+            "title": "Electronic Devices and Circuits Lab",
+            "type": "Lab"
+          },
+          {
+            "code": "CSE 231",
+            "credit": "3",
+            "grade": "A",
+            "title": "Data Structures",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 121",
+            "credit": "3",
+            "grade": "A+",
+            "title": "Object Oriented Programming Language",
+            "type": "Theory"
+          },
+          {
+            "code": "EEE 211",
+            "credit": "3",
+            "grade": "B-",
+            "title": "Electronic Devices and Circuits",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 213",
+            "credit": "3",
+            "grade": "A+",
+            "title": "Theory of Computing & Automata Theory",
+            "type": "Theory"
+          },
+          {
+            "code": "STA 231",
+            "credit": "3",
+            "grade": "B",
+            "title": "Statistics",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 232",
+            "credit": "1.5",
+            "grade": "A+",
+            "title": "Data Structures Lab",
+            "type": "Lab"
+          },
+          {
+            "code": "CSE 122",
+            "credit": "1.5",
+            "grade": "A+",
+            "title": "Object Oriented Programming Language Lab",
+            "type": "Lab"
+          }
+        ],
+        "semester": "Fall, 2018-19",
+        "sgpa": "3.52"
+      },
+      {
+        "cgpa": "3.19",
+        "results": [
+          {
+            "code": "CSE 242",
+            "credit": "1.5",
+            "grade": "A+",
+            "title": "Algorithms Lab",
+            "type": "Lab"
+          },
+          {
+            "code": "CSE 205",
+            "credit": "3",
+            "grade": "A-",
+            "title": "Digital Logic Design",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 241",
+            "credit": "3",
+            "grade": "A+",
+            "title": "Algorithms",
+            "type": "Theory"
+          },
+          {
+            "code": "ACT 201",
+            "credit": "2",
+            "grade": "C",
+            "title": "Accounting Fundamentals",
+            "type": "Theory"
+          },
+          {
+            "code": "MAT 231",
+            "credit": "3",
+            "grade": "C+",
+            "title": "Complex Variable and Fourier Analysis",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 206",
+            "credit": "1.5",
+            "grade": "A+",
+            "title": "Digital Logic Design Lab",
+            "type": "Lab"
+          }
+        ],
+        "semester": "Spring, 2019",
+        "sgpa": "3.32"
+      },
+      {
+        "cgpa": "3.20",
+        "results": [
+          {
+            "code": "CSE 224",
+            "credit": "0.75",
+            "grade": "A",
+            "title": "Numerical Analysis Lab",
+            "type": "Lab"
+          },
+          {
+            "code": "CSE 209",
+            "credit": "3",
+            "grade": "B-",
+            "title": "Data Communication",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 200",
+            "credit": "0.75",
+            "grade": "A+",
+            "title": "Software Development II",
+            "type": "Lab"
+          },
+          {
+            "code": "CSE 223",
+            "credit": "3",
+            "grade": "C+",
+            "title": "Numerical Analysis",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 208",
+            "credit": "1.5",
+            "grade": "A+",
+            "title": "Database Systems Lab",
+            "type": "Lab"
+          },
+          {
+            "code": "CSE 215",
+            "credit": "3",
+            "grade": "B",
+            "title": "Computer Architecture",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 207",
+            "credit": "3",
+            "grade": "A+",
+            "title": "Database Systems",
+            "type": "Theory"
+          }
+        ],
+        "semester": "Summer, 2019",
+        "sgpa": "3.24"
+      },
+      {
+        "cgpa": "3.24",
+        "results": [
+          {
+            "code": "CSE 332",
+            "credit": "1.5",
+            "grade": "A+",
+            "title": "Advanced Programming Lab",
+            "type": "Lab"
+          },
+          {
+            "code": "CSE 317",
+            "credit": "3",
+            "grade": "B-",
+            "title": "System Analysis and Design",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 331",
+            "credit": "3",
+            "grade": "A+",
+            "title": "Advanced Programming",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 316",
+            "credit": "1.5",
+            "grade": "A+",
+            "title": "Microprocessor and Interfacing Lab",
+            "type": "Lab"
+          },
+          {
+            "code": "CSE 318",
+            "credit": "1.5",
+            "grade": "A+",
+            "title": "System Analysis and Design Lab",
+            "type": "Lab"
+          },
+          {
+            "code": "CSE 315",
+            "credit": "3",
+            "grade": "B",
+            "title": "Microprocessor and Interfacing",
+            "type": "Theory"
+          }
+        ],
+        "semester": "Fall, 2019-20",
+        "sgpa": "3.50"
+      },
+      {
+        "cgpa": "3.31",
+        "results": [
+          {
+            "code": "CSE 324",
+            "credit": "0.75",
+            "grade": "A",
+            "title": "Compiler Design Lab",
+            "type": "Lab"
+          },
+          {
+            "code": "CSE 310",
+            "credit": "1.5",
+            "grade": "A+",
+            "title": "Operating Systems Lab",
+            "type": "Lab"
+          },
+          {
+            "code": "CSE 328",
+            "credit": "0.75",
+            "grade": "A+",
+            "title": "Software Engineering Lab",
+            "type": "Lab"
+          },
+          {
+            "code": "CSE 323",
+            "credit": "3",
+            "grade": "A",
+            "title": "Compiler Design",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 309",
+            "credit": "3",
+            "grade": "A+",
+            "title": "Operating Systems",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 327",
+            "credit": "3",
+            "grade": "A-",
+            "title": "Software Engineering",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 313",
+            "credit": "3",
+            "grade": "A",
+            "title": "Mathematical Analysis for Computer Science",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 300",
+            "credit": "0.75",
+            "grade": "A+",
+            "title": "Software Development III",
+            "type": "Lab"
+          }
+        ],
+        "semester": "Spring, 2020",
+        "sgpa": "3.80"
+      },
+      {
+        "cgpa": "3.28",
+        "results": [
+          {
+            "code": "CSE 342",
+            "credit": "0.75",
+            "grade": "A-",
+            "title": "Computer Graphics Lab",
+            "type": "Lab"
+          },
+          {
+            "code": "CSE 319",
+            "credit": "3",
+            "grade": "B",
+            "title": "Computer Network",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 352",
+            "credit": "1.5",
+            "grade": "A-",
+            "title": "Artificial Intelligence and Expert System Lab",
+            "type": "Lab"
+          },
+          {
+            "code": "CSE 341",
+            "credit": "3",
+            "grade": "B",
+            "title": "Computer Graphics",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 351",
+            "credit": "3",
+            "grade": "B-",
+            "title": "Artificial Intelligence and Expert System",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 320",
+            "credit": "1.5",
+            "grade": "B-",
+            "title": "Computer Network Lab",
+            "type": "Lab"
+          }
+        ],
+        "semester": "Summer, 2020",
+        "sgpa": "3.00"
+      },
+      {
+        "cgpa": "3.29",
+        "results": [
+          {
+            "code": "CSE 498",
+            "credit": "4",
+            "grade": "",
+            "title": "Capstone Project/Project/Thesis",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 418",
+            "credit": "1.5",
+            "grade": "A+",
+            "title": "Distributed Database Management Systems Lab",
+            "type": "Lab"
+          },
+          {
+            "code": "CSE 400",
+            "credit": "0.75",
+            "grade": "A+",
+            "title": "Software Development IV",
+            "type": "Lab"
+          },
+          {
+            "code": "CSE 426",
+            "credit": "1.5",
+            "grade": "A+",
+            "title": "Microcontroller and Embedded Systems Lab",
+            "type": "Lab"
+          },
+          {
+            "code": "CSE 417",
+            "credit": "3",
+            "grade": "B",
+            "title": "Distributed Database Management Systems",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 425",
+            "credit": "3",
+            "grade": "B",
+            "title": "Microcontroller and Embedded Systems",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 407",
+            "credit": "2",
+            "grade": "B",
+            "title": "Project Management and Professional Ethics",
+            "type": "Theory"
+          }
+        ],
+        "semester": "Fall 2020-21",
+        "sgpa": "3.32"
+      },
+      {
+        "cgpa": "3.24",
+        "results": [
+          {
+            "code": "CSE 477",
+            "credit": "3",
+            "grade": "C",
+            "title": "Neural Network and Fuzzy Systems",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 413",
+            "credit": "3",
+            "grade": "A",
+            "title": "Cyber Security and Digital Forensic",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 465",
+            "credit": "3",
+            "grade": "B",
+            "title": "Machine Learning",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 478",
+            "credit": "1.5",
+            "grade": "F",
+            "title": "Neural Network and Fuzzy Systems Lab",
+            "type": "Lab"
+          },
+          {
+            "code": "CSE 414",
+            "credit": "1.5",
+            "grade": "A",
+            "title": "Cyber Security and Digital Forensic Lab",
+            "type": "Lab"
+          }
+        ],
+        "semester": "Spring 2021",
+        "sgpa": "2.72"
+      },
+      {
+        "cgpa": "",
+        "results": [
+          {
+            "code": "CSE 475",
+            "credit": "3",
+            "grade": "",
+            "title": "Data Mining",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 478",
+            "credit": "1.5",
+            "grade": "",
+            "title": "Neural Network and Fuzzy Systems Lab",
+            "type": "Lab"
+          },
+          {
+            "code": "CSE 467",
+            "credit": "3",
+            "grade": "",
+            "title": "Pattern Recognition",
+            "type": "Theory"
+          },
+          {
+            "code": "CSE 476",
+            "credit": "1.5",
+            "grade": "",
+            "title": "Data Mining Lab",
+            "type": "Lab"
+          }
+        ],
+        "semester": "Summer 2021",
+        "sgpa": ""
+      }
+    ],
+    "status": "success"
+  }

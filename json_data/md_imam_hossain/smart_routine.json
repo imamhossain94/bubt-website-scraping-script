@@ -1,0 +1,184 @@
+
+{
+    "routineData": [
+      {
+        "classes": [
+          {
+            "building": "2",
+            "courseCode": "467",
+            "day": "Monday",
+            "dayClassSchedule": {
+              "endTime": "10:00",
+              "period": "08:30 AM - 10:00 AM",
+              "startTime": "08:30"
+            },
+            "eveClassSchedule": {
+              "endTime": "10:30",
+              "period": "09:00 AM - 10:30 AM",
+              "startTime": "09:00"
+            },
+            "intakeNo": "37",
+            "programCode": "CSE",
+            "roomNo": "318",
+            "sectionNo": "2",
+            "teacherCode": "FZR"
+          },
+          {
+            "building": "2",
+            "courseCode": "475",
+            "day": "Monday",
+            "dayClassSchedule": {
+              "endTime": "13:00",
+              "period": "11:30 AM - 01:00 PM",
+              "startTime": "11:30"
+            },
+            "eveClassSchedule": {
+              "endTime": "16:30",
+              "period": "03:00 PM - 04:30 PM",
+              "startTime": "15:00"
+            },
+            "intakeNo": "37",
+            "programCode": "CSE",
+            "roomNo": "810",
+            "sectionNo": "2",
+            "teacherCode": "MSZ"
+          }
+        ]
+      },
+      {
+        "classes": [
+          {
+            "building": "2",
+            "courseCode": "475",
+            "day": "Tuesday",
+            "dayClassSchedule": {
+              "endTime": "11:30",
+              "period": "10:00 AM - 11:30 AM",
+              "startTime": "10:00"
+            },
+            "eveClassSchedule": {
+              "endTime": "12:00",
+              "period": "10:30 AM - 12:00 PM",
+              "startTime": "10:30"
+            },
+            "intakeNo": "37",
+            "programCode": "CSE",
+            "roomNo": "906",
+            "sectionNo": "2",
+            "teacherCode": "MSZ"
+          }
+        ]
+      },
+      {
+        "classes": [
+          {
+            "building": "2",
+            "courseCode": "476",
+            "day": "Wednesday",
+            "dayClassSchedule": {
+              "endTime": "14:50",
+              "period": "01:20 PM - 02:50 PM",
+              "startTime": "13:20"
+            },
+            "eveClassSchedule": {
+              "endTime": "18:00",
+              "period": "04:30 PM - 06:00 PM",
+              "startTime": "16:30"
+            },
+            "intakeNo": "37",
+            "programCode": "CSE",
+            "roomNo": "517",
+            "sectionNo": "2",
+            "teacherCode": "MSZ"
+          },
+          {
+            "building": "2",
+            "courseCode": "476",
+            "day": "Wednesday",
+            "dayClassSchedule": {
+              "endTime": "16:20",
+              "period": "02:50 PM - 04:20 PM",
+              "startTime": "14:50"
+            },
+            "eveClassSchedule": {
+              "endTime": "",
+              "period": " - ",
+              "startTime": ""
+            },
+            "intakeNo": "37",
+            "programCode": "CSE",
+            "roomNo": "517",
+            "sectionNo": "2",
+            "teacherCode": "MSZ"
+          },
+          {
+            "building": "2",
+            "courseCode": "467",
+            "day": "Wednesday",
+            "dayClassSchedule": {
+              "endTime": "17:50",
+              "period": "04:20 PM - 05:50 PM",
+              "startTime": "16:20"
+            },
+            "eveClassSchedule": {
+              "endTime": "",
+              "period": " - ",
+              "startTime": ""
+            },
+            "intakeNo": "37",
+            "programCode": "CSE",
+            "roomNo": "318",
+            "sectionNo": "2",
+            "teacherCode": "FZR"
+          }
+        ]
+      },
+      {
+        "classes": [
+          {
+            "building": "2",
+            "courseCode": "478",
+            "day": "Thursday",
+            "dayClassSchedule": {
+              "endTime": "16:20",
+              "period": "02:50 PM - 04:20 PM",
+              "startTime": "14:50"
+            },
+            "eveClassSchedule": {
+              "endTime": "",
+              "period": " - ",
+              "startTime": ""
+            },
+            "intakeNo": "38",
+            "programCode": "CSE",
+            "roomNo": "518",
+            "sectionNo": "5",
+            "teacherCode": "SUA"
+          },
+          {
+            "building": "2",
+            "courseCode": "478",
+            "day": "Thursday",
+            "dayClassSchedule": {
+              "endTime": "17:50",
+              "period": "04:20 PM - 05:50 PM",
+              "startTime": "16:20"
+            },
+            "eveClassSchedule": {
+              "endTime": "",
+              "period": " - ",
+              "startTime": ""
+            },
+            "intakeNo": "38",
+            "programCode": "CSE",
+            "roomNo": "518",
+            "sectionNo": "5",
+            "teacherCode": "SUA"
+          }
+        ]
+      }
+    ],
+    "routineType": "Class Routine",
+    "semesterName": "Summer Semester, 2021",
+    "status": "success"
+  }

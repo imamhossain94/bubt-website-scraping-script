@@ -106,17 +106,18 @@ def getDetails(url):
 
 
 if __name__ == '__main__':
+    # Takes upto 2 minutes to get all 550+  data so wait a few time
     # noticeData = getAllNE(dType='notice', page=0, limit=600)
     # print(json.dumps(noticeData))
 
     # eventData = getAllNE(dType='event', page=0, limit=15)
     # print(json.dumps(eventData))
 
-    url = "https://www.bubt.edu.bd/home/event_details/200"
+    url = "https://www.bubt.edu.bd/home/notice_details/664"
     noticeDetailsdata = getDetails(url=url)
     print(json.dumps(noticeDetailsdata))
 
-    # url = ""
-    # eventDetailsdata = getDetails(url)
+    # url = "https://www.bubt.edu.bd/home/event_details/200"
+    # eventDetailsdata = getDetails(url=url)
     # print(json.dumps(eventDetailsdata))
 

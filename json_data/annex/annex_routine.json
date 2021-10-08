@@ -1,0 +1,566 @@
+{
+    "data": [
+      {
+        "Building": "",
+        "Day": "Saturday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "08:30 AM to 10:00 AM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Saturday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "10:00 AM to 11:30 AM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Saturday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "11:30 AM to 01:00 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Saturday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "01:20 PM to 02:50 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Saturday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "02:50 PM to 04:20 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Saturday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "04:20 PM to 05:50 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Saturday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "06:00 PM to 07:30 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Saturday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "07:30 PM to 09:00 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Sunday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "08:30 AM to 10:00 AM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "B-2",
+        "Day": "Sunday",
+        "Intake": "37",
+        "Room_No": "320",
+        "Schedule": "10:00 AM to 11:30 AM",
+        "Section": "2",
+        "Subject_Code": "CSE 465",
+        "Teacher_Code": "MAJ"
+      },
+      {
+        "Building": "B-2",
+        "Day": "Sunday",
+        "Intake": "37",
+        "Room_No": "417",
+        "Schedule": "11:30 AM to 01:00 PM",
+        "Section": "3",
+        "Subject_Code": "CSE 414",
+        "Teacher_Code": "THZ"
+      },
+      {
+        "Building": "B-2",
+        "Day": "Sunday",
+        "Intake": "37",
+        "Room_No": "417",
+        "Schedule": "01:20 PM to 02:50 PM",
+        "Section": "3",
+        "Subject_Code": "CSE 414",
+        "Teacher_Code": "THZ"
+      },
+      {
+        "Building": "",
+        "Day": "Sunday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "02:50 PM to 04:20 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Sunday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "04:20 PM to 05:50 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Sunday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "06:00 PM to 07:30 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Sunday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "07:30 PM to 09:00 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Monday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "08:30 AM to 10:00 AM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Monday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "10:00 AM to 11:30 AM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Monday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "11:30 AM to 01:00 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Monday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "01:20 PM to 02:50 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Monday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "02:50 PM to 04:20 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Monday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "04:20 PM to 05:50 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Monday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "06:00 PM to 07:30 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Monday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "07:30 PM to 09:00 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Tuesday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "08:30 AM to 10:00 AM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Tuesday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "10:00 AM to 11:30 AM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Tuesday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "11:30 AM to 01:00 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "B-2",
+        "Day": "Tuesday",
+        "Intake": "37",
+        "Room_No": "318",
+        "Schedule": "01:20 PM to 02:50 PM",
+        "Section": "2",
+        "Subject_Code": "CSE 477",
+        "Teacher_Code": "SUA"
+      },
+      {
+        "Building": "B-2",
+        "Day": "Tuesday",
+        "Intake": "37",
+        "Room_No": "317",
+        "Schedule": "02:50 PM to 04:20 PM",
+        "Section": "2",
+        "Subject_Code": "CSE 413",
+        "Teacher_Code": "THZ"
+      },
+      {
+        "Building": "",
+        "Day": "Tuesday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "04:20 PM to 05:50 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Tuesday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "06:00 PM to 07:30 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Tuesday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "07:30 PM to 09:00 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Wednesday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "08:30 AM to 10:00 AM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Wednesday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "10:00 AM to 11:30 AM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "B-2",
+        "Day": "Wednesday",
+        "Intake": "37",
+        "Room_No": "318",
+        "Schedule": "11:30 AM to 01:00 PM",
+        "Section": "2",
+        "Subject_Code": "CSE 477",
+        "Teacher_Code": "SUA"
+      },
+      {
+        "Building": "B-2",
+        "Day": "Wednesday",
+        "Intake": "37",
+        "Room_No": "319",
+        "Schedule": "01:20 PM to 02:50 PM",
+        "Section": "2",
+        "Subject_Code": "CSE 413",
+        "Teacher_Code": "THZ"
+      },
+      {
+        "Building": "",
+        "Day": "Wednesday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "02:50 PM to 04:20 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Wednesday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "04:20 PM to 05:50 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Wednesday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "06:00 PM to 07:30 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Wednesday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "07:30 PM to 09:00 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "B-2",
+        "Day": "Thursday",
+        "Intake": "37",
+        "Room_No": "419",
+        "Schedule": "08:30 AM to 10:00 AM",
+        "Section": "2",
+        "Subject_Code": "CSE 478",
+        "Teacher_Code": "SUA"
+      },
+      {
+        "Building": "B-2",
+        "Day": "Thursday",
+        "Intake": "37",
+        "Room_No": "419",
+        "Schedule": "10:00 AM to 11:30 AM",
+        "Section": "2",
+        "Subject_Code": "CSE 478",
+        "Teacher_Code": "SUA"
+      },
+      {
+        "Building": "B-2",
+        "Day": "Thursday",
+        "Intake": "37",
+        "Room_No": "320",
+        "Schedule": "11:30 AM to 01:00 PM",
+        "Section": "2",
+        "Subject_Code": "CSE 465",
+        "Teacher_Code": "MAJ"
+      },
+      {
+        "Building": "",
+        "Day": "Thursday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "01:20 PM to 02:50 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Thursday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "02:50 PM to 04:20 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Thursday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "04:20 PM to 05:50 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Thursday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "06:00 PM to 07:30 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Thursday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "07:30 PM to 09:00 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Friday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "08:30 AM to 10:00 AM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Friday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "10:00 AM to 11:30 AM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Friday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "11:30 AM to 01:00 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Friday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "01:20 PM to 02:50 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Friday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "02:50 PM to 04:20 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Friday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "04:20 PM to 05:50 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Friday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "06:00 PM to 07:30 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      },
+      {
+        "Building": "",
+        "Day": "Friday",
+        "Intake": "",
+        "Room_No": "",
+        "Schedule": "07:30 PM to 09:00 PM",
+        "Section": "",
+        "Subject_Code": "",
+        "Teacher_Code": ""
+      }
+    ],
+    "status": "success"
+  }
+  

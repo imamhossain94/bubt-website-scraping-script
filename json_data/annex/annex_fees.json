@@ -1,0 +1,384 @@
+
+{
+    "data": [
+      {
+        "Demand": "44195",
+        "Due": "0",
+        "Paid": "44195",
+        "Remarks": "Semester Charge+Tuition Fees+Others",
+        "Semester": "Fall, 2017-18",
+        "Waiver": "0",
+        "payments": [
+          {
+            "Account_Code": "319",
+            "Payment_Amount": "15600",
+            "Payment_No": "1",
+            "Reciept_No": "18888",
+            "Waiver": "0"
+          },
+          {
+            "Account_Code": "319",
+            "Payment_Amount": "28595",
+            "Payment_No": "2",
+            "Reciept_No": "43019",
+            "Waiver": "0"
+          }
+        ]
+      },
+      {
+        "Demand": "32570",
+        "Due": "0",
+        "Paid": "32570",
+        "Remarks": "Semester Charge+Tuition Fees+Others",
+        "Semester": "Spring, 2018",
+        "Waiver": "0",
+        "payments": [
+          {
+            "Account_Code": "319",
+            "Payment_Amount": "6000",
+            "Payment_No": "1",
+            "Reciept_No": "55386",
+            "Waiver": "0"
+          },
+          {
+            "Account_Code": "319",
+            "Payment_Amount": "13000",
+            "Payment_No": "2",
+            "Reciept_No": "62871",
+            "Waiver": "0"
+          },
+          {
+            "Account_Code": "319",
+            "Payment_Amount": "13570",
+            "Payment_No": "3",
+            "Reciept_No": "69159",
+            "Waiver": "0"
+          }
+        ]
+      },
+      {
+        "Demand": "29683",
+        "Due": "0",
+        "Paid": "29683",
+        "Remarks": "Semester Charge+Tuition Fees+Others",
+        "Semester": "Summer, 2018",
+        "Waiver": "0",
+        "payments": [
+          {
+            "Account_Code": "319",
+            "Payment_Amount": "6000",
+            "Payment_No": "1",
+            "Reciept_No": "77517",
+            "Waiver": "0"
+          },
+          {
+            "Account_Code": "319",
+            "Payment_Amount": "11500",
+            "Payment_No": "2",
+            "Reciept_No": "4259",
+            "Waiver": "0"
+          },
+          {
+            "Account_Code": "319",
+            "Payment_Amount": "12183",
+            "Payment_No": "3",
+            "Reciept_No": "12992",
+            "Waiver": "0"
+          }
+        ]
+      },
+      {
+        "Demand": "37520",
+        "Due": "0",
+        "Paid": "37520",
+        "Remarks": "Semester Charge+Tuition Fees+Others",
+        "Semester": "Fall, 2018-19",
+        "Waiver": "0",
+        "payments": [
+          {
+            "Account_Code": "319",
+            "Payment_Amount": "10000",
+            "Payment_No": "1",
+            "Reciept_No": "21154",
+            "Waiver": "0"
+          },
+          {
+            "Account_Code": "319",
+            "Payment_Amount": "15000",
+            "Payment_No": "2",
+            "Reciept_No": "31112",
+            "Waiver": "0"
+          },
+          {
+            "Account_Code": "319",
+            "Payment_Amount": "12520",
+            "Payment_No": "3",
+            "Reciept_No": "36090",
+            "Waiver": "0"
+          }
+        ]
+      },
+      {
+        "Demand": "31420",
+        "Due": "0",
+        "Paid": "31420",
+        "Remarks": "Semester Charge+Tuition Fees+Others",
+        "Semester": "Spring, 2019",
+        "Waiver": "0",
+        "payments": [
+          {
+            "Account_Code": "319",
+            "Payment_Amount": "6000",
+            "Payment_No": "1",
+            "Reciept_No": "45302",
+            "Waiver": "0"
+          },
+          {
+            "Account_Code": "319",
+            "Payment_Amount": "12000",
+            "Payment_No": "2",
+            "Reciept_No": "52590",
+            "Waiver": "0"
+          },
+          {
+            "Account_Code": "319",
+            "Payment_Amount": "13420",
+            "Payment_No": "3",
+            "Reciept_No": "62070",
+            "Waiver": "0"
+          }
+        ]
+      },
+      {
+        "Demand": "32570",
+        "Due": "0",
+        "Paid": "32570",
+        "Remarks": "Semester Charge+Tuition Fees+Others",
+        "Semester": "Summer, 2019",
+        "Waiver": "0",
+        "payments": [
+          {
+            "Account_Code": "319",
+            "Payment_Amount": "6000",
+            "Payment_No": "1",
+            "Reciept_No": "69478",
+            "Waiver": "0"
+          },
+          {
+            "Account_Code": "319",
+            "Payment_Amount": "13000",
+            "Payment_No": "2",
+            "Reciept_No": "3592",
+            "Waiver": "0"
+          },
+          {
+            "Account_Code": "319",
+            "Payment_Amount": "13570",
+            "Payment_No": "3",
+            "Reciept_No": "9504",
+            "Waiver": "0"
+          }
+        ]
+      },
+      {
+        "Demand": "30095",
+        "Due": "0",
+        "Paid": "30095",
+        "Remarks": "Semester Charge+Tuition Fees+Others",
+        "Semester": "Fall, 2019-20",
+        "Waiver": "0",
+        "payments": [
+          {
+            "Account_Code": "319",
+            "Payment_Amount": "6000",
+            "Payment_No": "1",
+            "Reciept_No": "23784",
+            "Waiver": "0"
+          },
+          {
+            "Account_Code": "319",
+            "Payment_Amount": "6795",
+            "Payment_No": "2",
+            "Reciept_No": "33177",
+            "Waiver": "0"
+          },
+          {
+            "Account_Code": "932",
+            "Payment_Amount": "7300",
+            "Payment_No": "3",
+            "Reciept_No": "33176",
+            "Waiver": "0"
+          },
+          {
+            "Account_Code": "319",
+            "Payment_Amount": "10000",
+            "Payment_No": "4",
+            "Reciept_No": "38594",
+            "Waiver": "0"
+          }
+        ]
+      },
+      {
+        "Demand": "33808",
+        "Due": "0",
+        "Paid": "27311",
+        "Remarks": "Semester Charge+Tuition Fees+Others",
+        "Semester": "Spring, 2020",
+        "Waiver": "6497",
+        "payments": [
+          {
+            "Account_Code": "319",
+            "Payment_Amount": "6000",
+            "Payment_No": "1",
+            "Reciept_No": "49481",
+            "Waiver": "0"
+          },
+          {
+            "Account_Code": "932",
+            "Payment_Amount": "7300",
+            "Payment_No": "2",
+            "Reciept_No": "59213",
+            "Waiver": "0"
+          },
+          {
+            "Account_Code": "319",
+            "Payment_Amount": "6700",
+            "Payment_No": "3",
+            "Reciept_No": "59214",
+            "Waiver": "0"
+          },
+          {
+            "Account_Code": "",
+            "Payment_Amount": "7311",
+            "Payment_No": "4",
+            "Reciept_No": "5514",
+            "Waiver": "0"
+          }
+        ]
+      },
+      {
+        "Demand": "28857",
+        "Due": "Outstanding/Due: -0",
+        "Paid": "23598",
+        "Remarks": "Semester Charge+Tuition Fees+Others",
+        "Semester": "Summer, 2020",
+        "Waiver": "5259",
+        "payments": [
+          {
+            "Account_Code": "",
+            "Payment_Amount": "2000",
+            "Payment_No": "1",
+            "Reciept_No": "12623",
+            "Waiver": "0"
+          },
+          {
+            "Account_Code": "319",
+            "Payment_Amount": "16098",
+            "Payment_No": "2",
+            "Reciept_No": "23420",
+            "Waiver": "0"
+          },
+          {
+            "Account_Code": "932",
+            "Payment_Amount": "5500",
+            "Payment_No": "3",
+            "Reciept_No": "23419",
+            "Waiver": "0"
+          }
+        ]
+      },
+      {
+        "Demand": "33808",
+        "Due": "0",
+        "Paid": "27311",
+        "Remarks": "Semester Charge+Tuition Fees+Others",
+        "Semester": "Fall 2020-21",
+        "Waiver": "6497",
+        "payments": [
+          {
+            "Account_Code": "",
+            "Payment_Amount": "2000",
+            "Payment_No": "1",
+            "Reciept_No": "34425",
+            "Waiver": "0"
+          },
+          {
+            "Account_Code": "",
+            "Payment_Amount": "15000",
+            "Payment_No": "2",
+            "Reciept_No": "42750",
+            "Waiver": "0"
+          },
+          {
+            "Account_Code": "",
+            "Payment_Amount": "10311",
+            "Payment_No": "3",
+            "Reciept_No": "50320",
+            "Waiver": "0"
+          }
+        ]
+      },
+      {
+        "Demand": "27620",
+        "Due": "0",
+        "Paid": "24650",
+        "Remarks": "Semester Charge+Tuition Fees+Others",
+        "Semester": "Spring 2021",
+        "Waiver": "2970",
+        "payments": [
+          {
+            "Account_Code": "",
+            "Payment_Amount": "3000",
+            "Payment_No": "1",
+            "Reciept_No": "50321",
+            "Waiver": "0"
+          },
+          {
+            "Account_Code": "",
+            "Payment_Amount": "11650",
+            "Payment_No": "2",
+            "Reciept_No": "60944",
+            "Waiver": "0"
+          },
+          {
+            "Account_Code": "",
+            "Payment_Amount": "10000",
+            "Payment_No": "3",
+            "Reciept_No": "1818",
+            "Waiver": "0"
+          }
+        ]
+      },
+      {
+        "Demand": "22670",
+        "Due": "",
+        "Paid": "13000",
+        "Remarks": "Semester Charge+Tuition Fees+Others",
+        "Semester": "Summer 2021",
+        "Waiver": "2228",
+        "payments": [
+          {
+            "Account_Code": "",
+            "Payment_Amount": "6000",
+            "Payment_No": "1",
+            "Reciept_No": "9070",
+            "Waiver": "0"
+          },
+          {
+            "Account_Code": "",
+            "Payment_Amount": "7000",
+            "Payment_No": "2",
+            "Reciept_No": "18234",
+            "Waiver": "0"
+          }
+        ]
+      }
+    ],
+    "result": {
+      "Total_Demand": "384816",
+      "Total_Due": "7442",
+      "Total_Paid": "353923",
+      "Total_Waiver": "23451"
+    },
+    "status": "success"
+  }

@@ -80,7 +80,7 @@ def getDetails(url):
 
 
 # Main route
-# @notice.route('/bubt/v2/<dataType>', methods=['GET'])
+# @notice.route('/bubt/../<dataType>', methods=['GET'])
 # def dataBUBT(dataType):
 #     print(request.args)
 #     if dataType in ['allNotice', 'noticeDetails', 'allEvent', 'eventDetails']:
@@ -110,12 +110,15 @@ if __name__ == '__main__':
     # noticeData = getAllNE(dType='notice', page=0, limit=600)
     # print(json.dumps(noticeData))
 
+    noticeData = getAllNE(dType='notice', page=0, limit=10)
+    print(json.dumps(noticeData))
+
     # eventData = getAllNE(dType='event', page=0, limit=15)
     # print(json.dumps(eventData))
 
-    url = "https://www.bubt.edu.bd/home/notice_details/664"
-    noticeDetailsdata = getDetails(url=url)
-    print(json.dumps(noticeDetailsdata))
+    # url = "https://www.bubt.edu.bd/home/notice_details/664"
+    # noticeDetailsdata = getDetails(url=url)
+    # print(json.dumps(noticeDetailsdata))
 
     # url = "https://www.bubt.edu.bd/home/event_details/200"
     # eventDetailsdata = getDetails(url=url)

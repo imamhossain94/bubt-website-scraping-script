@@ -20,7 +20,7 @@ def getCSECourse(programUrl):
                     if ',' in course_code:
                         for i in range(2):
                             localData = {
-                                'course_code': course_code.split(',')[i].strip(),
+                                'course_code': course_code.split(',')[i].strip() if i == 0 else 'CSE ' + course_code.split(',')[i].strip() ,
                                 'course_title': course_title.split('&')[0].strip() if i == 0 else course_title.replace("& ", "").strip(),
                                 'theory_credit': cols[2].text.strip(),
                                 'lab_credit': cols[3].text.strip(),

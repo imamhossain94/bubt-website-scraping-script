@@ -1,996 +1,996 @@
 {
-    "data":[
-       {
-          "course_code":"CSE 101",
-          "course_title":"Computer and Programming Concepts",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"102",
-          "course_title":"Computer and Programming Concepts Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"MAT 101",
-          "course_title":"Differential and Integral Calculus",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":""
-       },
-       {
-          "course_code":"ENG 101",
-          "course_title":"English Language-I",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":""
-       },
-       {
-          "course_code":"PHY 101",
-          "course_title":"Physics",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":""
-       },
-       {
-          "course_code":"MAT 111",
-          "course_title":"Co-Ordinate Geometry and Vector Calculus",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":"MAT 101"
-       },
-       {
-          "course_code":"ENG 111",
-          "course_title":"English Language-II",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":"ENG 101"
-       },
-       {
-          "course_code":"EEE 101",
-          "course_title":"Electrical Technology",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"102",
-          "course_title":"Electrical Technology Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 111",
-          "course_title":"Structured Programming Language",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":"CSE 101"
-       },
-       {
-          "course_code":"112",
-          "course_title":"Structured Programming Language Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":"CSE 101"
-       },
-       {
-          "course_code":"CSE 103",
-          "course_title":"Discrete Mathematics",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":""
-       },
-       {
-          "course_code":"MAT 121",
-          "course_title":"Linear Algebras and Differential Equations",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":"MAT 111"
-       },
-       {
-          "course_code":"CSE 121",
-          "course_title":"Object Oriented Programming Language",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":"CSE 111"
-       },
-       {
-          "course_code":"122",
-          "course_title":"Object Oriented Programming Language Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":"CSE 111"
-       },
-       {
-          "course_code":"ECO 101",
-          "course_title":"Principles of Economics",
-          "theory_credit":"2.00",
-          "lab_credit":"-",
-          "total_credit":"2.00",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 100",
-          "course_title":"Software Development I",
-          "theory_credit":"-",
-          "lab_credit":"0.75",
-          "total_credit":"0.75",
-          "prerequisit":""
-       },
-       {
-          "course_code":"EEE 211",
-          "course_title":"Electronic Devices and Circuits",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":"EEE 101"
-       },
-       {
-          "course_code":"212",
-          "course_title":"Electronic Devices and Circuits Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":"EEE 101"
-       },
-       {
-          "course_code":"STA 231",
-          "course_title":"Statistics",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":"MAT 121"
-       },
-       {
-          "course_code":"CSE 213",
-          "course_title":"Theory of Computing & Automata Theory",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":"CSE 103"
-       },
-       {
-          "course_code":"CSE 231",
-          "course_title":"Data Structures",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":"CSE 121"
-       },
-       {
-          "course_code":"232",
-          "course_title":"Data Structures Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":"CSE 121"
-       },
-       {
-          "course_code":"MAT 231",
-          "course_title":"Complex Variable and Furrier Analysis",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":"MAT 121"
-       },
-       {
-          "course_code":"CSE 205",
-          "course_title":"Digital Logic Design",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"206",
-          "course_title":"Digital Logic Design Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 209",
-          "course_title":"Data Communication",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 241",
-          "course_title":"Algorithms",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":"CSE 231"
-       },
-       {
-          "course_code":"242",
-          "course_title":"Algorithms Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":"CSE 231"
-       },
-       {
-          "course_code":"CSE 207",
-          "course_title":"Database Systems",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"208",
-          "course_title":"Database Systems Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 215",
-          "course_title":"Computer Architecture",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":"CSE 205"
-       },
-       {
-          "course_code":"CSE 223",
-          "course_title":"Numerical Analysis",
-          "theory_credit":"3.00",
-          "lab_credit":"0.75",
-          "total_credit":"3.75",
-          "prerequisit":"CSE 213"
-       },
-       {
-          "course_code":"224",
-          "course_title":"Numerical Analysis Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"0.75",
-          "total_credit":"3.75",
-          "prerequisit":"CSE 213"
-       },
-       {
-          "course_code":"ACT 201",
-          "course_title":"Accounting Fundamentals",
-          "theory_credit":"2.00",
-          "lab_credit":"-",
-          "total_credit":"2.00",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 200",
-          "course_title":"Software Development II",
-          "theory_credit":"-",
-          "lab_credit":"0.75",
-          "total_credit":"0.75",
-          "prerequisit":"CSE 100"
-       },
-       {
-          "course_code":"CSE 317",
-          "course_title":"System Analysis and Design",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":"CSE 207"
-       },
-       {
-          "course_code":"318",
-          "course_title":"System Analysis and Design Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":"CSE 207"
-       },
-       {
-          "course_code":"CSE 331",
-          "course_title":"Advanced Programming",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":"CSE 121"
-       },
-       {
-          "course_code":"332",
-          "course_title":"Advanced Programming Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":"CSE 121"
-       },
-       {
-          "course_code":"CSE 315",
-          "course_title":"Microprocessor and Interfacing",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":"CSE 215"
-       },
-       {
-          "course_code":"316",
-          "course_title":"Microprocessor and Interfacing Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":"CSE 215"
-       },
-       {
-          "course_code":"CSE 309",
-          "course_title":"Operating Systems",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"310",
-          "course_title":"Operating Systems Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 323",
-          "course_title":"Compiler Design",
-          "theory_credit":"3.00",
-          "lab_credit":"0.75",
-          "total_credit":"3.75",
-          "prerequisit":"CSE 213"
-       },
-       {
-          "course_code":"324",
-          "course_title":"Compiler Design Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"0.75",
-          "total_credit":"3.75",
-          "prerequisit":"CSE 213"
-       },
-       {
-          "course_code":"CSE 327",
-          "course_title":"Software Engineering",
-          "theory_credit":"3.00",
-          "lab_credit":"0.75",
-          "total_credit":"3.75",
-          "prerequisit":"CSE 317"
-       },
-       {
-          "course_code":"328",
-          "course_title":"Software Engineering Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"0.75",
-          "total_credit":"3.75",
-          "prerequisit":"CSE 317"
-       },
-       {
-          "course_code":"CSE 313",
-          "course_title":"Mathematical Analysis for Computer Science",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":"CSE 103"
-       },
-       {
-          "course_code":"CSE 351",
-          "course_title":"Artificial Intelligence and Expert System",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":"CSE 241"
-       },
-       {
-          "course_code":"352",
-          "course_title":"Artificial Intelligence and Expert System Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":"CSE 241"
-       },
-       {
-          "course_code":"CSE 319",
-          "course_title":"Computer Networks",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":"CSE 209"
-       },
-       {
-          "course_code":"320",
-          "course_title":"Computer Networks Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":"CSE 209"
-       },
-       {
-          "course_code":"CSE 341",
-          "course_title":"Computer Graphics",
-          "theory_credit":"3.00",
-          "lab_credit":"0.75",
-          "total_credit":"3.75",
-          "prerequisit":"CSE 231"
-       },
-       {
-          "course_code":"342",
-          "course_title":"Computer Graphics Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"0.75",
-          "total_credit":"3.75",
-          "prerequisit":"CSE 231"
-       },
-       {
-          "course_code":"CSE 300",
-          "course_title":"Software Development III",
-          "theory_credit":"-",
-          "lab_credit":"0.75",
-          "total_credit":"0.75",
-          "prerequisit":"CSE 200"
-       },
-       {
-          "course_code":"CSE 407",
-          "course_title":"Information System Management",
-          "theory_credit":"2.00",
-          "lab_credit":"",
-          "total_credit":"2.00",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 425",
-          "course_title":"Microcontroller and Embedded Systems",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":"CSE 315"
-       },
-       {
-          "course_code":"426",
-          "course_title":"Microcontroller and Embedded Systems Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":"CSE 315"
-       },
-       {
-          "course_code":"CSE 417",
-          "course_title":"Distributed Database Management Systems",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":"CSE 207"
-       },
-       {
-          "course_code":"418",
-          "course_title":"Distributed Database Management Systems Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":"CSE 207"
-       },
-       {
-          "course_code":"CSE 411",
-          "course_title":"Digital Electronics and Pulse Technique",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":"CSE 201"
-       },
-       {
-          "course_code":"412",
-          "course_title":"Digital Electronics and Pulse Technique Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":"CSE 201"
-       },
-       {
-          "course_code":"CSE 400",
-          "course_title":"Software Development IV",
-          "theory_credit":"-",
-          "lab_credit":"0.75",
-          "total_credit":"0.75",
-          "prerequisit":"CSE-300"
-       },
-       {
-          "course_code":"CSE 498",
-          "course_title":"Project/Thesis",
-          "theory_credit":"",
-          "lab_credit":"",
-          "total_credit":"",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 431",
-          "course_title":"Communication Engineering",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 433",
-          "course_title":"Fiber Optics Communication",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 435",
-          "course_title":"Network Security",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 437",
-          "course_title":"Digital Signal Processing",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"438",
-          "course_title":"Digital Signal Processing Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 439",
-          "course_title":"Wireless Networking",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"440",
-          "course_title":"Wireless Networking Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 441",
-          "course_title":"Switching and Routing",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"442",
-          "course_title":"Switching and Routing Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 443",
-          "course_title":"Delay Tolerant Network",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"444",
-          "course_title":"Delay Tolerant Network Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 445",
-          "course_title":"Introduction to cryptography",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"446",
-          "course_title":"Introduction to cryptography Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 447",
-          "course_title":"Mobile communication",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"448",
-          "course_title":"Mobile communication lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 449",
-          "course_title":"Network Administration",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"450",
-          "course_title":"Network Administration Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 451",
-          "course_title":"Software Project Management",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 453",
-          "course_title":"Software Testing and Quality Assurance",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 455",
-          "course_title":"Software Security and Authentication",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 457",
-          "course_title":"Web Database Programming",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"458",
-          "course_title":"Web Database Programming Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 459",
-          "course_title":"Visual Programming",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"460",
-          "course_title":"Visual Programming Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 461",
-          "course_title":"Software Architecture",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"462",
-          "course_title":"Software Architecture Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 463",
-          "course_title":"Software Design Pattern",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"464",
-          "course_title":"Software Design Pattern Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 465",
-          "course_title":"Machine Learning",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 467",
-          "course_title":"Pattern Recognition",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 477",
-          "course_title":"Neural Network and Fuzzy Systems",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"478",
-          "course_title":"Neural Network and Fuzzy Systems Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 481",
-          "course_title":"Decision Support System",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"482",
-          "course_title":"Decision Support System Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 483",
-          "course_title":"Knowledge Engineering",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"484",
-          "course_title":"Knowledge Engineering Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 475",
-          "course_title":"Data Mining",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"476",
-          "course_title":"Data Mining Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 465",
-          "course_title":"Machine Learning",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 467",
-          "course_title":"Pattern Recognition",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 469",
-          "course_title":"Basic Graph Theory",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 471",
-          "course_title":"Computational Geometry",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 473",
-          "course_title":"Simulation and Modeling",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"474",
-          "course_title":"Simulation and Modeling Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 475",
-          "course_title":"Data Mining",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"476",
-          "course_title":"Data Mining Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 477",
-          "course_title":"Neural Network and Fuzzy Systems",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"478",
-          "course_title":"Neural Network and Fuzzy Systems Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 479",
-          "course_title":"VLSI Design",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"480",
-          "course_title":"VLSI Design Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 485",
-          "course_title":"Parallel Processing",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 487",
-          "course_title":"Robotics and Computer Vision",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 489",
-          "course_title":"Fault Tolerant System",
-          "theory_credit":"3.00",
-          "lab_credit":"-",
-          "total_credit":"3.00",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 491",
-          "course_title":"Interfacing and Peripherals",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"492",
-          "course_title":"Interfacing and Peripherals Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 479",
-          "course_title":"VLSI Design",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"480",
-          "course_title":"VLSI Design Lab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"CSE 493",
-          "course_title":"Digital System Design",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       },
-       {
-          "course_code":"494",
-          "course_title":"Digital System DesignLab",
-          "theory_credit":"3.00",
-          "lab_credit":"1.50",
-          "total_credit":"4.50",
-          "prerequisit":""
-       }
-    ]
- }
+   "data":[
+      {
+         "course_code":"CSE 101",
+         "course_title":"Computer and Programming Concepts",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 102",
+         "course_title":"Computer and Programming Concepts Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"MAT 101",
+         "course_title":"Differential and Integral Calculus",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":""
+      },
+      {
+         "course_code":"ENG 101",
+         "course_title":"English Language-I",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":""
+      },
+      {
+         "course_code":"PHY 101",
+         "course_title":"Physics",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":""
+      },
+      {
+         "course_code":"MAT 111",
+         "course_title":"Co-Ordinate Geometry and Vector Calculus",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":"MAT 101"
+      },
+      {
+         "course_code":"ENG 111",
+         "course_title":"English Language-II",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":"ENG 101"
+      },
+      {
+         "course_code":"EEE 101",
+         "course_title":"Electrical Technology",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 102",
+         "course_title":"Electrical Technology Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 111",
+         "course_title":"Structured Programming Language",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":"CSE 101"
+      },
+      {
+         "course_code":"CSE 112",
+         "course_title":"Structured Programming Language Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":"CSE 101"
+      },
+      {
+         "course_code":"CSE 103",
+         "course_title":"Discrete Mathematics",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":""
+      },
+      {
+         "course_code":"MAT 121",
+         "course_title":"Linear Algebras and Differential Equations",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":"MAT 111"
+      },
+      {
+         "course_code":"CSE 121",
+         "course_title":"Object Oriented Programming Language",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":"CSE 111"
+      },
+      {
+         "course_code":"CSE 122",
+         "course_title":"Object Oriented Programming Language Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":"CSE 111"
+      },
+      {
+         "course_code":"ECO 101",
+         "course_title":"Principles of Economics",
+         "theory_credit":"2.00",
+         "lab_credit":"-",
+         "total_credit":"2.00",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 100",
+         "course_title":"Software Development I",
+         "theory_credit":"-",
+         "lab_credit":"0.75",
+         "total_credit":"0.75",
+         "prerequisit":""
+      },
+      {
+         "course_code":"EEE 211",
+         "course_title":"Electronic Devices and Circuits",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":"EEE 101"
+      },
+      {
+         "course_code":"CSE 212",
+         "course_title":"Electronic Devices and Circuits Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":"EEE 101"
+      },
+      {
+         "course_code":"STA 231",
+         "course_title":"Statistics",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":"MAT 121"
+      },
+      {
+         "course_code":"CSE 213",
+         "course_title":"Theory of Computing & Automata Theory",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":"CSE 103"
+      },
+      {
+         "course_code":"CSE 231",
+         "course_title":"Data Structures",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":"CSE 121"
+      },
+      {
+         "course_code":"CSE 232",
+         "course_title":"Data Structures Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":"CSE 121"
+      },
+      {
+         "course_code":"MAT 231",
+         "course_title":"Complex Variable and Furrier Analysis",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":"MAT 121"
+      },
+      {
+         "course_code":"CSE 205",
+         "course_title":"Digital Logic Design",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 206",
+         "course_title":"Digital Logic Design Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 209",
+         "course_title":"Data Communication",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 241",
+         "course_title":"Algorithms",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":"CSE 231"
+      },
+      {
+         "course_code":"CSE 242",
+         "course_title":"Algorithms Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":"CSE 231"
+      },
+      {
+         "course_code":"CSE 207",
+         "course_title":"Database Systems",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 208",
+         "course_title":"Database Systems Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 215",
+         "course_title":"Computer Architecture",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":"CSE 205"
+      },
+      {
+         "course_code":"CSE 223",
+         "course_title":"Numerical Analysis",
+         "theory_credit":"3.00",
+         "lab_credit":"0.75",
+         "total_credit":"3.75",
+         "prerequisit":"CSE 213"
+      },
+      {
+         "course_code":"CSE 224",
+         "course_title":"Numerical Analysis Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"0.75",
+         "total_credit":"3.75",
+         "prerequisit":"CSE 213"
+      },
+      {
+         "course_code":"ACT 201",
+         "course_title":"Accounting Fundamentals",
+         "theory_credit":"2.00",
+         "lab_credit":"-",
+         "total_credit":"2.00",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 200",
+         "course_title":"Software Development II",
+         "theory_credit":"-",
+         "lab_credit":"0.75",
+         "total_credit":"0.75",
+         "prerequisit":"CSE 100"
+      },
+      {
+         "course_code":"CSE 317",
+         "course_title":"System Analysis and Design",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":"CSE 207"
+      },
+      {
+         "course_code":"CSE 318",
+         "course_title":"System Analysis and Design Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":"CSE 207"
+      },
+      {
+         "course_code":"CSE 331",
+         "course_title":"Advanced Programming",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":"CSE 121"
+      },
+      {
+         "course_code":"CSE 332",
+         "course_title":"Advanced Programming Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":"CSE 121"
+      },
+      {
+         "course_code":"CSE 315",
+         "course_title":"Microprocessor and Interfacing",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":"CSE 215"
+      },
+      {
+         "course_code":"CSE 316",
+         "course_title":"Microprocessor and Interfacing Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":"CSE 215"
+      },
+      {
+         "course_code":"CSE 309",
+         "course_title":"Operating Systems",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 310",
+         "course_title":"Operating Systems Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 323",
+         "course_title":"Compiler Design",
+         "theory_credit":"3.00",
+         "lab_credit":"0.75",
+         "total_credit":"3.75",
+         "prerequisit":"CSE 213"
+      },
+      {
+         "course_code":"CSE 324",
+         "course_title":"Compiler Design Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"0.75",
+         "total_credit":"3.75",
+         "prerequisit":"CSE 213"
+      },
+      {
+         "course_code":"CSE 327",
+         "course_title":"Software Engineering",
+         "theory_credit":"3.00",
+         "lab_credit":"0.75",
+         "total_credit":"3.75",
+         "prerequisit":"CSE 317"
+      },
+      {
+         "course_code":"CSE 328",
+         "course_title":"Software Engineering Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"0.75",
+         "total_credit":"3.75",
+         "prerequisit":"CSE 317"
+      },
+      {
+         "course_code":"CSE 313",
+         "course_title":"Mathematical Analysis for Computer Science",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":"CSE 103"
+      },
+      {
+         "course_code":"CSE 351",
+         "course_title":"Artificial Intelligence and Expert System",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":"CSE 241"
+      },
+      {
+         "course_code":"CSE 352",
+         "course_title":"Artificial Intelligence and Expert System Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":"CSE 241"
+      },
+      {
+         "course_code":"CSE 319",
+         "course_title":"Computer Networks",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":"CSE 209"
+      },
+      {
+         "course_code":"CSE 320",
+         "course_title":"Computer Networks Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":"CSE 209"
+      },
+      {
+         "course_code":"CSE 341",
+         "course_title":"Computer Graphics",
+         "theory_credit":"3.00",
+         "lab_credit":"0.75",
+         "total_credit":"3.75",
+         "prerequisit":"CSE 231"
+      },
+      {
+         "course_code":"CSE 342",
+         "course_title":"Computer Graphics Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"0.75",
+         "total_credit":"3.75",
+         "prerequisit":"CSE 231"
+      },
+      {
+         "course_code":"CSE 300",
+         "course_title":"Software Development III",
+         "theory_credit":"-",
+         "lab_credit":"0.75",
+         "total_credit":"0.75",
+         "prerequisit":"CSE 200"
+      },
+      {
+         "course_code":"CSE 407",
+         "course_title":"Information System Management",
+         "theory_credit":"2.00",
+         "lab_credit":"",
+         "total_credit":"2.00",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 425",
+         "course_title":"Microcontroller and Embedded Systems",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":"CSE 315"
+      },
+      {
+         "course_code":"CSE 426",
+         "course_title":"Microcontroller and Embedded Systems Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":"CSE 315"
+      },
+      {
+         "course_code":"CSE 417",
+         "course_title":"Distributed Database Management Systems",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":"CSE 207"
+      },
+      {
+         "course_code":"CSE 418",
+         "course_title":"Distributed Database Management Systems Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":"CSE 207"
+      },
+      {
+         "course_code":"CSE 411",
+         "course_title":"Digital Electronics and Pulse Technique",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":"CSE 201"
+      },
+      {
+         "course_code":"CSE 412",
+         "course_title":"Digital Electronics and Pulse Technique Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":"CSE 201"
+      },
+      {
+         "course_code":"CSE 400",
+         "course_title":"Software Development IV",
+         "theory_credit":"-",
+         "lab_credit":"0.75",
+         "total_credit":"0.75",
+         "prerequisit":"CSE-300"
+      },
+      {
+         "course_code":"CSE 498",
+         "course_title":"Project/Thesis",
+         "theory_credit":"",
+         "lab_credit":"",
+         "total_credit":"",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 431",
+         "course_title":"Communication Engineering",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 433",
+         "course_title":"Fiber Optics Communication",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 435",
+         "course_title":"Network Security",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 437",
+         "course_title":"Digital Signal Processing",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 438",
+         "course_title":"Digital Signal Processing Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 439",
+         "course_title":"Wireless Networking",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 440",
+         "course_title":"Wireless Networking Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 441",
+         "course_title":"Switching and Routing",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 442",
+         "course_title":"Switching and Routing Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 443",
+         "course_title":"Delay Tolerant Network",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 444",
+         "course_title":"Delay Tolerant Network Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 445",
+         "course_title":"Introduction to cryptography",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 446",
+         "course_title":"Introduction to cryptography Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 447",
+         "course_title":"Mobile communication",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 448",
+         "course_title":"Mobile communication lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 449",
+         "course_title":"Network Administration",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 450",
+         "course_title":"Network Administration Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 451",
+         "course_title":"Software Project Management",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 453",
+         "course_title":"Software Testing and Quality Assurance",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 455",
+         "course_title":"Software Security and Authentication",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 457",
+         "course_title":"Web Database Programming",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 458",
+         "course_title":"Web Database Programming Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 459",
+         "course_title":"Visual Programming",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 460",
+         "course_title":"Visual Programming Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 461",
+         "course_title":"Software Architecture",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 462",
+         "course_title":"Software Architecture Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 463",
+         "course_title":"Software Design Pattern",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 464",
+         "course_title":"Software Design Pattern Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 465",
+         "course_title":"Machine Learning",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 467",
+         "course_title":"Pattern Recognition",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 477",
+         "course_title":"Neural Network and Fuzzy Systems",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 478",
+         "course_title":"Neural Network and Fuzzy Systems Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 481",
+         "course_title":"Decision Support System",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 482",
+         "course_title":"Decision Support System Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 483",
+         "course_title":"Knowledge Engineering",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 484",
+         "course_title":"Knowledge Engineering Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 475",
+         "course_title":"Data Mining",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 476",
+         "course_title":"Data Mining Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 465",
+         "course_title":"Machine Learning",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 467",
+         "course_title":"Pattern Recognition",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 469",
+         "course_title":"Basic Graph Theory",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 471",
+         "course_title":"Computational Geometry",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 473",
+         "course_title":"Simulation and Modeling",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 474",
+         "course_title":"Simulation and Modeling Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 475",
+         "course_title":"Data Mining",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 476",
+         "course_title":"Data Mining Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 477",
+         "course_title":"Neural Network and Fuzzy Systems",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 478",
+         "course_title":"Neural Network and Fuzzy Systems Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 479",
+         "course_title":"VLSI Design",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 480",
+         "course_title":"VLSI Design Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 485",
+         "course_title":"Parallel Processing",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 487",
+         "course_title":"Robotics and Computer Vision",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 489",
+         "course_title":"Fault Tolerant System",
+         "theory_credit":"3.00",
+         "lab_credit":"-",
+         "total_credit":"3.00",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 491",
+         "course_title":"Interfacing and Peripherals",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 492",
+         "course_title":"Interfacing and Peripherals Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 479",
+         "course_title":"VLSI Design",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 480",
+         "course_title":"VLSI Design Lab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 493",
+         "course_title":"Digital System Design",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      },
+      {
+         "course_code":"CSE 494",
+         "course_title":"Digital System DesignLab",
+         "theory_credit":"3.00",
+         "lab_credit":"1.50",
+         "total_credit":"4.50",
+         "prerequisit":""
+      }
+   ]
+}

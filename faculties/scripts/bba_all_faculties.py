@@ -12,9 +12,9 @@ from firebase_admin import credentials
 
 
 baseURL = 'https://www.bubt.edu.bd'
-cred = credentials.Certificate("serviceAccountKey.json") #firebase service account json key
-firebase_admin.initialize_app(cred, {'storageBucket': 'bubt-smart-routine.appspot.com'})
-
+cred = credentials.Certificate("serviceAccountKeyStudy.json") #firebase service account json key
+# firebase_admin.initialize_app(cred, {'storageBucket': 'bubt-smart-routine.appspot.com'})
+firebase_admin.initialize_app(cred, {'storageBucket': 'studylab-4a6f6.appspot.com'})
 
 # decode base64 string and upload it into firebase to get short image link
 def uploadImageFile(fileName, stringFile):
@@ -23,7 +23,7 @@ def uploadImageFile(fileName, stringFile):
         im = Image.open(BytesIO(base64.b64decode(stringFile.replace('data:image/png;base64,', ''))))
         im.save('faculties/bba/%s_%d.png'%(fileName, randId), 'PNG')
         bucket = storage.bucket()
-        blob = bucket.blob('bba/%s_%d.png'%(fileName, randId))
+        blob = bucket.blob('faculties/bba/%s_%d.png'%(fileName, randId))
         blob.upload_from_filename('faculties/bba/%s_%d.png'%(fileName, randId))
         blob.make_public()
         return blob.public_url
@@ -50,7 +50,7 @@ def getBBAFaculties(facultyUrl):
     try:
         for i in range(4):
             url = get(baseURL+facultyUrl[i]).text
-            for i in range([20, 11, 6, 8][i]):
+            for j in range([20, 11, 6, 8][i]):
                 div = BeautifulSoup(str(url), 'html.parser').find_all('div', class_="faculty-member faculty-member%d"%(i))[0]
                 h3 = str(div.find('h3'))
                 for r in (('/', ''), ('<h3>', ''), ('<span>', ''), ('<sub>', ''), ('amp;', '')):
@@ -70,7 +70,10 @@ def getBBAFaculties(facultyUrl):
                     'designation': designation,
                     'status': status,
                     'link': link,
-                    'image': image
+                    'image': image,
+                    'phone': '',
+                    'fb':'',
+                    'program': ['mgt','act','mkt','fin'][i]
                 }
                 finalData['data'].append(localData)
         print(json.dumps(finalData)) 

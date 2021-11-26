@@ -25,7 +25,9 @@ def getCSECourse(programUrl):
                                 'theory_credit': cols[2].text.strip(),
                                 'lab_credit': cols[3].text.strip(),
                                 'total_credit': cols[4].text.strip(),
-                                'prerequisit': cols[5].text.strip()
+                                'prerequisit': cols[5].text.strip(),
+                                'program':'cse',
+                                'semester':''
                             }
                             course_data.append(localData)  
                     else:
@@ -35,7 +37,9 @@ def getCSECourse(programUrl):
                             'theory_credit': cols[2].text.strip(),
                             'lab_credit': cols[3].text.strip(),
                             'total_credit': cols[4].text.strip(),
-                            'prerequisit': cols[5].text.strip()
+                            'prerequisit': cols[5].text.strip(),
+                            'program':'cse',
+                            'semester':''
                         }
                         course_data.append(localData)  
         course_data = [x for x in course_data if x['course_code'] != 'CSE 4**']

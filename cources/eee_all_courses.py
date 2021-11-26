@@ -27,7 +27,9 @@ def getEEECourse(programURL):
                 'theory_credit': '',
                 'lab_credit': '',
                 'total_credit': credits.replace('Credits: ','').strip(),
-                'prerequisit': prerequisite.replace('Prerequisite:','').replace('none', '').strip()
+                'prerequisit': prerequisite.replace('Prerequisite:','').replace('none', '').strip(),
+                'program':'eee',
+                'semester':''  
             }
             finalData['data'].append(localData)
         print(json.dumps(finalData))

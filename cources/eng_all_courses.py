@@ -21,7 +21,9 @@ def getENGCourse(programUrl):
                         'theory_credit': '',
                         'lab_credit': '',
                         'total_credit': cols[2].text.strip(),
-                        'prerequisit': ''
+                        'prerequisit': '',
+                        'program':'eng',
+                        'semester':''  
                     }
                     finalData['data'].append(localData)
         print(json.dumps(finalData))

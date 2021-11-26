@@ -26,7 +26,9 @@ def getLLBCourse(programUrl):
                         'theory_credit': '',
                         'lab_credit': '',
                         'total_credit': cols[4].text.strip(),
-                        'prerequisit': ''
+                        'prerequisit': '',
+                        'program':'llb',
+                        'semester':'' 
                     }
                 if len(cols) == 2:
                     semester = cols[0].text.strip()
@@ -37,7 +39,9 @@ def getLLBCourse(programUrl):
                         'theory_credit': '',
                         'lab_credit': '',
                         'total_credit': cols[2].text.strip(),
-                        'prerequisit': ''
+                        'prerequisit': '',
+                        'program':'llb',
+                        'semester':'' 
                     }
             finalData['data'].append(localData)
         print(json.dumps(finalData))     

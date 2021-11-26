@@ -23,7 +23,9 @@ def getCIVILCourse(programURL):
                         'theory_credit': cols[2].text.strip(),
                         'lab_credit': cols[3].text.strip(),
                         'total_credit': cols[3].text.strip(),
-                        'prerequisit': cols[4].text.strip() if len(cols) > 4 else ''
+                        'prerequisit': cols[4].text.strip() if len(cols) > 4 else '',
+                        'program':'civil',
+                        'semester':''
                     }
                     course_data.append(localData)  
         finalData['data'] = course_data

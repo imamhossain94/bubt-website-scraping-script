@@ -22,7 +22,9 @@ def getBBACourse(programUrl):
                     'theory_credit': '',
                     'lab_credit': '',
                     'total_credit': '',
-                    'prerequisit': ''
+                    'prerequisit': '',
+                    'program':'bba',
+                    'semester':''
                 }
             finalData.append(localData)
         for item in listItem:
@@ -32,7 +34,10 @@ def getBBACourse(programUrl):
                 'theory_credit': '',
                 'lab_credit': '',
                 'total_credit': '',
-                'prerequisit': ''
+                'prerequisit': '',
+                'program':'bba',
+                'semester':''
+                
             }
             finalData.append(localData)
 

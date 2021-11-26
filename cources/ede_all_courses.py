@@ -21,7 +21,9 @@ def getEDECourse(programUrl):
                         'theory_credit': '',
                         'lab_credit': '',
                         'total_credit': cols[3].text.strip(),
-                        'prerequisit': ''
+                        'prerequisit': '',
+                        'program':'ede',
+                        'semester':''   
                     }
                     finalData['data'].append(localData)
         print(json.dumps(finalData))

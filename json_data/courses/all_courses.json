@@ -1,0 +1,6304 @@
+{
+    "data":[
+       {
+          "course_code":"BUS 101",
+          "course_title":"Introduction to Business",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"BUS 202",
+          "course_title":"Business Communication",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"BUS 303",
+          "course_title":"International Business",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"BUS 404",
+          "course_title":"Business Environment",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"BUS 405",
+          "course_title":"Research Methodology for Business",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"ACT 101",
+          "course_title":"Introduction to Financial Accounting",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"ACT 202",
+          "course_title":"Introduction to Management Accounting",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"ACT 203",
+          "course_title":"Taxation",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"MGT 201",
+          "course_title":"Principles of Management",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"MGT 403",
+          "course_title":"Project Management",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"MGT 404",
+          "course_title":"Entrepreneurial Policies & Practices",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"MGT 405",
+          "course_title":"Business Policy & Strategy",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"FIN 301",
+          "course_title":"Introduction to Finance",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"FIN 302",
+          "course_title":"Managerial Finance",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"FIN 303",
+          "course_title":"Banking and Insurance",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"MKT 301",
+          "course_title":"Introduction to Marketing",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"MKT 302",
+          "course_title":"Marketing Management",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 101",
+          "course_title":"Micro Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 202",
+          "course_title":"Macro Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"HRM 201",
+          "course_title":"Human Resource Management",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"HRM 302",
+          "course_title":"Organizational Behavior",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 101",
+          "course_title":"English Language I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 102",
+          "course_title":"English Language II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"CIS 101",
+          "course_title":"Introduction to Computer Science",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"CIS 202",
+          "course_title":"Computer Application",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"CIS 410",
+          "course_title":"Management Information System",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"OPN 301",
+          "course_title":"Production & Operations Management",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"LAW 201",
+          "course_title":"Business Law",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"MAT 101",
+          "course_title":"Fundamentals of Mathematics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"MAT 102",
+          "course_title":"Mathematics for Decision Making",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"STA 201",
+          "course_title":"Introduction to Statistics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"STA 202",
+          "course_title":"Applied Statistics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"SCE 101",
+          "course_title":"Basics in Natural Science",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"SOC 101",
+          "course_title":"Basics in Social Science",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"Marketi",
+          "course_title":"g",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"HRM 403",
+          "course_title":"Human Resource Planning and Policy",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"HRM 405",
+          "course_title":"Compensation Management",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"HRM 407",
+          "course_title":"Human Resource Management Practices in Bangladesh",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"HRM 408",
+          "course_title":"Strategic Human Resource Management",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"HRM 404",
+          "course_title":"Training and Development",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"HRM 406",
+          "course_title":"Industrial Relations",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"HRM 409",
+          "course_title":"International Human Resource Management",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"HRM 410",
+          "course_title":"Industrial Psychology",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"HRM 411",
+          "course_title":"Conflict Management",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"ACT 404",
+          "course_title":"Intermediate Accounting",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"ACT 405",
+          "course_title":"Principles of Auditing",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"ACT 406",
+          "course_title":"Advanced Management Accounting",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"ACT 407",
+          "course_title":"Accounting Information System",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"ACT 408",
+          "course_title":"Security Analysis and Portfolio Management",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"ACT 409",
+          "course_title":"Advanced Accounting",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"ACT 410",
+          "course_title":"Accounting Theory",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"FIN 411",
+          "course_title":"Micro Finance",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"FIN 404",
+          "course_title":"Corporate Finance",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"FIN 406",
+          "course_title":"Management of Financial Institutions",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"FIN 407",
+          "course_title":"Investment Management",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"FIN 409",
+          "course_title":"International Financial Management",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"FIN 405",
+          "course_title":"Security Analysis and Portfolio Management",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"FIN 408",
+          "course_title":"Financial Analysis and Reporting",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"FIN 410",
+          "course_title":"Working Capital Management",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"FIN 411",
+          "course_title":"Micro Finance",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"MKT 403",
+          "course_title":"Consumer Behavior",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"MKT 407",
+          "course_title":"Marketing Research",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"MKT 409",
+          "course_title":"Service Marketing",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"MKT 410",
+          "course_title":"Strategic Marketing",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"MKT 404",
+          "course_title":"Integrated Marketing Communication",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"MKT 405",
+          "course_title":"Supply Chain Management",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"MKT 406",
+          "course_title":"E-Marketing",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"bba",
+          "semester":""
+       },
+       {
+          "course_code":"CE 111",
+          "course_title":"Analytical Mechanics",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"MATH 111",
+          "course_title":"Differential and Integral Calculus, matrices",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CHEM 113",
+          "course_title":"Chemistry I",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"PHY 121",
+          "course_title":"Physical Optics, Waves and Oscillation, Heat and Thermodynamics",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"HUM 101",
+          "course_title":"Bangladesh Studies",
+          "theory_credit":"2.0",
+          "lab_credit":"2.0",
+          "total_credit":"2.0",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"HUM 121",
+          "course_title":"English",
+          "theory_credit":"2.0",
+          "lab_credit":"2.0",
+          "total_credit":"2.0",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 110",
+          "course_title":"Civil Engineering Drawing",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CHEM 114",
+          "course_title":"Inorganic Quantitative Analysis",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"PHY 122",
+          "course_title":"Physics Laboratory",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 123",
+          "course_title":"Surveying",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"MATH 123",
+          "course_title":"Differential Equations and statistics",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":"MATH 111",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"PHY 133",
+          "course_title":"Structure of Matter, Electricity and Magnetism and Modern Physics Select one Chemistry II",
+          "theory_credit":"Structure of Matter, Electricity and Magnetism and Modern Physics",
+          "lab_credit":"Select one",
+          "total_credit":"Select one",
+          "prerequisit":"Chemistry II",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"EEE 131",
+          "course_title":"Basic Electrical Technology",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"HUM 115",
+          "course_title":"Sociology Select one Government",
+          "theory_credit":"Sociology",
+          "lab_credit":"Select one",
+          "total_credit":"Select one",
+          "prerequisit":"Government",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 134",
+          "course_title":"Practical Surveying",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"HUM 132",
+          "course_title":"Developing English Language Skills",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 132",
+          "course_title":"Computer Aided Drawing",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 140",
+          "course_title":"Architechtural, Engineering and Planning Appreciation",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"SHOP 132",
+          "course_title":"Workshop Sessional",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 211",
+          "course_title":"Engineering Materials",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 213",
+          "course_title":"Mechanics of Solids I",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":"CE 111",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"MATH 227",
+          "course_title":"Laplace Transform and Vector Analysis",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 215",
+          "course_title":"Numerical Methods",
+          "theory_credit":"2.0",
+          "lab_credit":"2.0",
+          "total_credit":"2.0",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"ACT 211",
+          "course_title":"Accounting",
+          "theory_credit":"2.0",
+          "lab_credit":"2.0",
+          "total_credit":"2.0",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"HUM 227",
+          "course_title":"Engineering Economics",
+          "theory_credit":"2.0",
+          "lab_credit":"2.0",
+          "total_credit":"2.0",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 214",
+          "course_title":"Computer Programming Sessional",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 220",
+          "course_title":"Details of Construction",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 222",
+          "course_title":"Materials Sessional",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 238",
+          "course_title":"Quantity Surveying",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 217",
+          "course_title":"Environmental Engineering I",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 233",
+          "course_title":"Engineering Geology and Geomorphology",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 237",
+          "course_title":"Applied Mathematics for Engineers",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 223",
+          "course_title":"Mechanics of Solids II",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":"CE 213",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"WRE 231",
+          "course_title":"Fluid Mechanics",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"WRE 232",
+          "course_title":"Fluid Mechanics (Sessional)",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 232",
+          "course_title":"Structural Mechanics and Materials (Sessional)",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 226",
+          "course_title":"Engineering Computations (Sessional)",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":"CE 214",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 234",
+          "course_title":"Geotechnical Engineering (Lab)",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 311",
+          "course_title":"Structural Analysis and Design I",
+          "theory_credit":"4.0",
+          "lab_credit":"4.0",
+          "total_credit":"4.0",
+          "prerequisit":"CE 223",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 313",
+          "course_title":"Principle of Soil Mechanics",
+          "theory_credit":"4.0",
+          "lab_credit":"4.0",
+          "total_credit":"4.0",
+          "prerequisit":"CE 233",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 315",
+          "course_title":"Design of Reinforced Concrete Structures I",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 323",
+          "course_title":"Environmental Engineering II",
+          "theory_credit":"4.0",
+          "lab_credit":"4.0",
+          "total_credit":"4.0",
+          "prerequisit":"CE 317",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 321",
+          "course_title":"Professional practices and communication",
+          "theory_credit":"2.0",
+          "lab_credit":"2.0",
+          "total_credit":"2.0",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 326",
+          "course_title":"Design of Reinforced Concrete Structures I",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 328",
+          "course_title":"Environmental Engineering",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 317",
+          "course_title":"Structural Analysis and Design II",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":"CE 311",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 325",
+          "course_title":"Design of Reinforced Concrete structure II",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":"CE 315",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 331",
+          "course_title":"Transportation Engineering I: Transportation planning and Traffic Engineering",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 337",
+          "course_title":"Design of Steel Structures",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"WRE 331",
+          "course_title":"Open Channel Flow",
+          "theory_credit":"4.0",
+          "lab_credit":"4.0",
+          "total_credit":"4.0",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 322",
+          "course_title":"Professional practices and communication",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 338",
+          "course_title":"Design of Steel Structure",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"WRE 332",
+          "course_title":"Open Channel Flow (Sessional)",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 413",
+          "course_title":"Project planning and construction management",
+          "theory_credit":"4.0",
+          "lab_credit":"4.0",
+          "total_credit":"4.0",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 417",
+          "course_title":"Transportation Engineering II: Pavement Design and Railway Engineering",
+          "theory_credit":"4.0",
+          "lab_credit":"4.0",
+          "total_credit":"4.0",
+          "prerequisit":"CE 331",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 421",
+          "course_title":"Foundation Engineering",
+          "theory_credit":"3.0",
+          "lab_credit":"3.0",
+          "total_credit":"3.0",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 423",
+          "course_title":"Socio Economic aspects of development projects",
+          "theory_credit":"2.0",
+          "lab_credit":"2.0",
+          "total_credit":"2.0",
+          "prerequisit":"Select one",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 412",
+          "course_title":"Transportation Engineering I: Highway Materials and Traffic Engineering Design (Sessional)",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 424",
+          "course_title":"Design of reinforced concrete structure II (Sess.)",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 402",
+          "course_title":"Industrial Training (CEIP)",
+          "theory_credit":"6.0",
+          "lab_credit":"1.0",
+          "total_credit":"1.0",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CE 400",
+          "course_title":"Project and thesis",
+          "theory_credit":"3.0",
+          "lab_credit":"1.5",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"civil",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 101",
+          "course_title":"Computer and Programming Concepts",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 102",
+          "course_title":"Computer and Programming Concepts Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"MAT 101",
+          "course_title":"Differential and Integral Calculus",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 101",
+          "course_title":"English Language-I",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"PHY 101",
+          "course_title":"Physics",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"MAT 111",
+          "course_title":"Co-Ordinate Geometry and Vector Calculus",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"MAT 101",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 111",
+          "course_title":"English Language-II",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"ENG 101",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"EEE 101",
+          "course_title":"Electrical Technology",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 102",
+          "course_title":"Electrical Technology Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 111",
+          "course_title":"Structured Programming Language",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"CSE 101",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 112",
+          "course_title":"Structured Programming Language Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"CSE 101",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 103",
+          "course_title":"Discrete Mathematics",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"MAT 121",
+          "course_title":"Linear Algebras and Differential Equations",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"MAT 111",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 121",
+          "course_title":"Object Oriented Programming Language",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"CSE 111",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 122",
+          "course_title":"Object Oriented Programming Language Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"CSE 111",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 101",
+          "course_title":"Principles of Economics",
+          "theory_credit":"2.00",
+          "lab_credit":"-",
+          "total_credit":"2.00",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 100",
+          "course_title":"Software Development I",
+          "theory_credit":"-",
+          "lab_credit":"0.75",
+          "total_credit":"0.75",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"EEE 211",
+          "course_title":"Electronic Devices and Circuits",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"EEE 101",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 212",
+          "course_title":"Electronic Devices and Circuits Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"EEE 101",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"STA 231",
+          "course_title":"Statistics",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"MAT 121",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 213",
+          "course_title":"Theory of Computing & Automata Theory",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"CSE 103",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 231",
+          "course_title":"Data Structures",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"CSE 121",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 232",
+          "course_title":"Data Structures Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"CSE 121",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"MAT 231",
+          "course_title":"Complex Variable and Furrier Analysis",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"MAT 121",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 205",
+          "course_title":"Digital Logic Design",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 206",
+          "course_title":"Digital Logic Design Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 209",
+          "course_title":"Data Communication",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 241",
+          "course_title":"Algorithms",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"CSE 231",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 242",
+          "course_title":"Algorithms Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"CSE 231",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 207",
+          "course_title":"Database Systems",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 208",
+          "course_title":"Database Systems Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 215",
+          "course_title":"Computer Architecture",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"CSE 205",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 223",
+          "course_title":"Numerical Analysis",
+          "theory_credit":"3.00",
+          "lab_credit":"0.75",
+          "total_credit":"3.75",
+          "prerequisit":"CSE 213",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 224",
+          "course_title":"Numerical Analysis Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"0.75",
+          "total_credit":"3.75",
+          "prerequisit":"CSE 213",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"ACT 201",
+          "course_title":"Accounting Fundamentals",
+          "theory_credit":"2.00",
+          "lab_credit":"-",
+          "total_credit":"2.00",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 200",
+          "course_title":"Software Development II",
+          "theory_credit":"-",
+          "lab_credit":"0.75",
+          "total_credit":"0.75",
+          "prerequisit":"CSE 100",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 317",
+          "course_title":"System Analysis and Design",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"CSE 207",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 318",
+          "course_title":"System Analysis and Design Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"CSE 207",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 331",
+          "course_title":"Advanced Programming",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"CSE 121",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 332",
+          "course_title":"Advanced Programming Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"CSE 121",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 315",
+          "course_title":"Microprocessor and Interfacing",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"CSE 215",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 316",
+          "course_title":"Microprocessor and Interfacing Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"CSE 215",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 309",
+          "course_title":"Operating Systems",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 310",
+          "course_title":"Operating Systems Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 323",
+          "course_title":"Compiler Design",
+          "theory_credit":"3.00",
+          "lab_credit":"0.75",
+          "total_credit":"3.75",
+          "prerequisit":"CSE 213",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 324",
+          "course_title":"Compiler Design Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"0.75",
+          "total_credit":"3.75",
+          "prerequisit":"CSE 213",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 327",
+          "course_title":"Software Engineering",
+          "theory_credit":"3.00",
+          "lab_credit":"0.75",
+          "total_credit":"3.75",
+          "prerequisit":"CSE 317",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 328",
+          "course_title":"Software Engineering Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"0.75",
+          "total_credit":"3.75",
+          "prerequisit":"CSE 317",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 313",
+          "course_title":"Mathematical Analysis for Computer Science",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"CSE 103",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 351",
+          "course_title":"Artificial Intelligence and Expert System",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"CSE 241",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 352",
+          "course_title":"Artificial Intelligence and Expert System Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"CSE 241",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 319",
+          "course_title":"Computer Networks",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"CSE 209",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 320",
+          "course_title":"Computer Networks Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"CSE 209",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 341",
+          "course_title":"Computer Graphics",
+          "theory_credit":"3.00",
+          "lab_credit":"0.75",
+          "total_credit":"3.75",
+          "prerequisit":"CSE 231",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 342",
+          "course_title":"Computer Graphics Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"0.75",
+          "total_credit":"3.75",
+          "prerequisit":"CSE 231",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 300",
+          "course_title":"Software Development III",
+          "theory_credit":"-",
+          "lab_credit":"0.75",
+          "total_credit":"0.75",
+          "prerequisit":"CSE 200",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 407",
+          "course_title":"Information System Management",
+          "theory_credit":"2.00",
+          "lab_credit":"",
+          "total_credit":"2.00",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 425",
+          "course_title":"Microcontroller and Embedded Systems",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"CSE 315",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 426",
+          "course_title":"Microcontroller and Embedded Systems Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"CSE 315",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 417",
+          "course_title":"Distributed Database Management Systems",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"CSE 207",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 418",
+          "course_title":"Distributed Database Management Systems Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"CSE 207",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 411",
+          "course_title":"Digital Electronics and Pulse Technique",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"CSE 201",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 412",
+          "course_title":"Digital Electronics and Pulse Technique Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"CSE 201",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 400",
+          "course_title":"Software Development IV",
+          "theory_credit":"-",
+          "lab_credit":"0.75",
+          "total_credit":"0.75",
+          "prerequisit":"CSE-300",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 498",
+          "course_title":"Project/Thesis",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 431",
+          "course_title":"Communication Engineering",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 433",
+          "course_title":"Fiber Optics Communication",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 435",
+          "course_title":"Network Security",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 437",
+          "course_title":"Digital Signal Processing",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 438",
+          "course_title":"Digital Signal Processing Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 439",
+          "course_title":"Wireless Networking",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 440",
+          "course_title":"Wireless Networking Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 441",
+          "course_title":"Switching and Routing",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 442",
+          "course_title":"Switching and Routing Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 443",
+          "course_title":"Delay Tolerant Network",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 444",
+          "course_title":"Delay Tolerant Network Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 445",
+          "course_title":"Introduction to cryptography",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 446",
+          "course_title":"Introduction to cryptography Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 447",
+          "course_title":"Mobile communication",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 448",
+          "course_title":"Mobile communication lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 449",
+          "course_title":"Network Administration",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 450",
+          "course_title":"Network Administration Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 451",
+          "course_title":"Software Project Management",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 453",
+          "course_title":"Software Testing and Quality Assurance",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 455",
+          "course_title":"Software Security and Authentication",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 457",
+          "course_title":"Web Database Programming",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 458",
+          "course_title":"Web Database Programming Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 459",
+          "course_title":"Visual Programming",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 460",
+          "course_title":"Visual Programming Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 461",
+          "course_title":"Software Architecture",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 462",
+          "course_title":"Software Architecture Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 463",
+          "course_title":"Software Design Pattern",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 464",
+          "course_title":"Software Design Pattern Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 465",
+          "course_title":"Machine Learning",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 467",
+          "course_title":"Pattern Recognition",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 477",
+          "course_title":"Neural Network and Fuzzy Systems",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 478",
+          "course_title":"Neural Network and Fuzzy Systems Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 481",
+          "course_title":"Decision Support System",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 482",
+          "course_title":"Decision Support System Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 483",
+          "course_title":"Knowledge Engineering",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 484",
+          "course_title":"Knowledge Engineering Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 475",
+          "course_title":"Data Mining",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 476",
+          "course_title":"Data Mining Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 465",
+          "course_title":"Machine Learning",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 467",
+          "course_title":"Pattern Recognition",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 469",
+          "course_title":"Basic Graph Theory",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 471",
+          "course_title":"Computational Geometry",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 473",
+          "course_title":"Simulation and Modeling",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 474",
+          "course_title":"Simulation and Modeling Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 475",
+          "course_title":"Data Mining",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 476",
+          "course_title":"Data Mining Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 477",
+          "course_title":"Neural Network and Fuzzy Systems",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 478",
+          "course_title":"Neural Network and Fuzzy Systems Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 479",
+          "course_title":"VLSI Design",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 480",
+          "course_title":"VLSI Design Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 485",
+          "course_title":"Parallel Processing",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 487",
+          "course_title":"Robotics and Computer Vision",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 489",
+          "course_title":"Fault Tolerant System",
+          "theory_credit":"3.00",
+          "lab_credit":"-",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 491",
+          "course_title":"Interfacing and Peripherals",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 492",
+          "course_title":"Interfacing and Peripherals Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 479",
+          "course_title":"VLSI Design",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 480",
+          "course_title":"VLSI Design Lab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 493",
+          "course_title":"Digital System Design",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"CSE 494",
+          "course_title":"Digital System DesignLab",
+          "theory_credit":"3.00",
+          "lab_credit":"1.50",
+          "total_credit":"4.50",
+          "prerequisit":"",
+          "program":"cse",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 113",
+          "course_title":"English Grammar, Composition and Comprehension",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 112",
+          "course_title":"Computer Operation and Application",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 331",
+          "course_title":"Labor Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 122",
+          "course_title":"Mathematical Economics I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 132",
+          "course_title":"Mathematical Economics II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 212",
+          "course_title":"Mathematical Economics\u00a0 III",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 133",
+          "course_title":"Introduction to Statistics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 213",
+          "course_title":"Probability and Probability Distribution",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 222",
+          "course_title":"Statistical Methods and Applications",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 123",
+          "course_title":"Sociology",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 134",
+          "course_title":"Money and Banking",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 124",
+          "course_title":"Introduction to Business",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 111",
+          "course_title":"Introduction to Microeconomics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 131",
+          "course_title":"Intermediate Microeconomics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 221",
+          "course_title":"Microeconomic Analysis",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 121",
+          "course_title":"Introduction to Macroeconomics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 211",
+          "course_title":"Intermediate Macroeconomics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 231",
+          "course_title":"Macroeconomic Analysis",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 311",
+          "course_title":"Introduction to Econometrics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 321",
+          "course_title":"Econometric Theory",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 312",
+          "course_title":"Development Economics I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 322",
+          "course_title":"Development Economics II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 332",
+          "course_title":"Urban Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 333",
+          "course_title":"Resource Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 223",
+          "course_title":"Public Finance",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 233",
+          "course_title":"Environmental Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 313",
+          "course_title":"Industrial Organization and Behavior",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 224",
+          "course_title":"Agricultural Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 334",
+          "course_title":"Health Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 234",
+          "course_title":"Selected Issues of Bangladesh Economy",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 323",
+          "course_title":"Project Analysis and Evaluation",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 324",
+          "course_title":"Research Methodology",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 114",
+          "course_title":"Government and Politics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 214",
+          "course_title":"International Trade",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 232",
+          "course_title":"International Finance",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 314",
+          "course_title":"History of Economic Thoughts",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 411",
+          "course_title":"Gender Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 412",
+          "course_title":"Comparative Economic Development",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 413",
+          "course_title":"Sustainable Development",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 414",
+          "course_title":"Contemporary Issues in World Economy",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 421",
+          "course_title":"Comparative Economic Systems",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 422",
+          "course_title":"Applied Econometrics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 423",
+          "course_title":"Model Building in Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 424",
+          "course_title":"Energy Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 431",
+          "course_title":"The Evolution of Economic Policy in Advanced Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 432",
+          "course_title":"Welfare Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eco",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 113",
+          "course_title":"English Grammar, Composition and Comprehension",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 112",
+          "course_title":"Computer Operation and Application",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 114",
+          "course_title":"Environmental Science",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 122",
+          "course_title":"Mathematical Economics I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 132",
+          "course_title":"Mathematical Economics II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 212",
+          "course_title":"Mathematical Economics\u00a0 III",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 133",
+          "course_title":"Introduction to Statistics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 213",
+          "course_title":"Probability and Probability Distribution",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 222",
+          "course_title":"Statistical Methods and Applications",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 123",
+          "course_title":"Sociology",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 134",
+          "course_title":"Money and Banking",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 124",
+          "course_title":"Introduction to Business",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 111",
+          "course_title":"Introduction to Microeconomics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 131",
+          "course_title":"Intermediate Microeconomics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 221",
+          "course_title":"Microeconomic Analysis",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 121",
+          "course_title":"Introduction to Macroeconomics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 211",
+          "course_title":"Intermediate Macroeconomics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 231",
+          "course_title":"Macroeconomic Analysis",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 311",
+          "course_title":"Introduction to Econometrics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 321",
+          "course_title":"Econometric Theory",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 312",
+          "course_title":"Development Economics I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 322",
+          "course_title":"Development Economics II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 224",
+          "course_title":"Agricultural Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 214",
+          "course_title":"Global Environmental Issues and Policies",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 223",
+          "course_title":"Public Finance",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 333",
+          "course_title":"Resource Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 233",
+          "course_title":"Environmental Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 313",
+          "course_title":"Industrial Organization and Behavior",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 324",
+          "course_title":"Research Methodology",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 334",
+          "course_title":"Environment and Health",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 234",
+          "course_title":"Selected Issues of Bangladesh Economy",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 323",
+          "course_title":"Project Analysis and Evaluation",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 331",
+          "course_title":"Labor Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 332",
+          "course_title":"Urban Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 232",
+          "course_title":"International\u00a0 Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 314",
+          "course_title":"Environmental Valuation",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 411",
+          "course_title":"Gender Issues and Sustainable Development",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 412",
+          "course_title":"Comparative Economic Development",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 413",
+          "course_title":"Sustainable Development",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 414",
+          "course_title":"Understanding Globalization",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 421",
+          "course_title":"Environmental Hazards in Bangladesh",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 422",
+          "course_title":"Applied Econometrics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 423",
+          "course_title":"Environmental Law and Ethics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 424",
+          "course_title":"Energy Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 431",
+          "course_title":"Environmental Organizations",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"EDE 432",
+          "course_title":"Welfare Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"ede",
+          "semester":""
+       },
+       {
+          "course_code":"ENGLISH LANGUAGE I",
+          "course_title":"ENG 101",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"ENGLISH LANGUAGE II",
+          "course_title":"ENG 102",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"ENG 101",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"CO-ORDINATE GEOMETRY AND LINEAR ALGEBRA",
+          "course_title":"MAT 101",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"ENG 101",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"DIFFERENTIAL AND INTEGRAL CALCULUS",
+          "course_title":"MAT 102",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"MAT 101",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"ORDINARY AND PARTIAL DIFFERENTIAL EQUATIONS",
+          "course_title":"MAT 103",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"MAT 102",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"VECTOR, COMPLEX VARIABLE, LAPLACE TRANSFORM AND FOURIER ANALYSIS",
+          "course_title":"MAT 201",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"MAT 103",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"STATISTICS & PROBABILITY DISTRIBUTION",
+          "course_title":"STA 201",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"PRINCIPLES OF ECONOMICS",
+          "course_title":"ECO 101",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"ACCOUNTING FUNDAMENTALS",
+          "course_title":"ACT 101",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"STRUCTURE PROGRAMMING LANGUAGE",
+          "course_title":"CSE 201",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"CSE 101",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"STRUCTURE PROGRAMMING LANGUAGE LAB",
+          "course_title":"CSE 202",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"CSE 101",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"BANGLADESH STUDIES",
+          "course_title":"HUM 101",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"None",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"PROFESSIONAL ETHICS",
+          "course_title":"HUM 201",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"None",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"MECHANICAL ENGINEERING FUNDAMENTALS",
+          "course_title":"ME 101",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"INDUSTRIAL MANAGEMENT",
+          "course_title":"MGT 301",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"INTRODUCTION TO CHEMISTRY",
+          "course_title":"CHE 101",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"PHYSICS-I",
+          "course_title":"Thermodynamics, Materials, Waves and Oscillations, Optics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"PHYSICS-I LABORATORY",
+          "course_title":"PHY 102",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"PHYSICS-II",
+          "course_title":"Electricity and Magnetism, Modern Physics and Quantum Mechanics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"PHY-101",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"PHYSICS-II LABORATORY",
+          "course_title":"PHY 104",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"PHY 102",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"NUMERICAL ANALYSIS FOR ELECTRICAL ENGINEERING",
+          "course_title":"EEE 321",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"MAT 210, CSE 103",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"NUMERICAL ANALYSIS FOR ELECTRICAL ENGINEERING LABORATORY",
+          "course_title":"EEE 322",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"CSE 104",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"CONTROL SYSTEM DESIGN",
+          "course_title":"EEE 323",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 207, EEE 209",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"CONTROL SYSTEM DESIGN LABORATORY",
+          "course_title":"EEE 324",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 208, EEE 210",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"BIOMEDICAL ENGINEERING",
+          "course_title":"EEE 325",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 103, EEE 303",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"BIOMEDICAL ENGINEERING LABORATORY",
+          "course_title":"EEE 326",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 104, EEE 304",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"ELECTRICAL CIRCUITS I",
+          "course_title":"EEE 101",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"PHY 103",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"ELECTRICAL CIRCUITS I LABORATORY",
+          "course_title":"EEE 102",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"PHY 104",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"ELECTRICAL CIRCUITS II",
+          "course_title":"EEE 103",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 101",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"ELECTRICAL CIRCUITS II LABORATORY",
+          "course_title":"EEE 104",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 102",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"ELECTRONIC CIRCUITS I",
+          "course_title":"EEE 201",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 101",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"ELECTRONIC CIRCUITS I LABORATORY",
+          "course_title":"EEE 202",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 102",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"ENERGY CONVERSION I",
+          "course_title":"EEE 203",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 103",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"ELECTRONIC CIRCUITS II",
+          "course_title":"EEE 207",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 201",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"ELECTRONIC CIRCUITS II LABORATORY",
+          "course_title":"EEE 208",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 202",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"ENERGY CONVERSION II",
+          "course_title":"EEE 209",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 203",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"ENERGY CONVERSION II LABORATORY",
+          "course_title":"EEE 210",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 204",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"ENGINEERING ELECTROMAGNETIC",
+          "course_title":"EEE 211",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"PHY 103",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"CONTINUOUS SIGNALS AND LINEAR SYSTEMS",
+          "course_title":"EEE 301",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"PHY 101",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"DIGITAL ELECTRONICS",
+          "course_title":"EEE 303",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 207",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"DIGITAL ELECTRONICS LABORATORY",
+          "course_title":"EEE 304",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 208",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"POWER SYSTEM I",
+          "course_title":"EEE 305",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 209",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"POWER SYSTEM I LABORATORY",
+          "course_title":"EEE 306",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 208",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"TELECOMMUNICATION ENGINEERING",
+          "course_title":"EEE 307",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 207",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"TELECOMMUNICATION ENGINEERING LABORATORY",
+          "course_title":"EEE 308",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 208",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"ELECTRONIC PROPERTIES OF MATERIALS",
+          "course_title":"EEE 309",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"PHY 103",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"DIGITAL SIGNAL PROCESSING I",
+          "course_title":"EEE 313",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"PHY 103",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"DIGITAL SIGNAL PROCESSING I LABORATORY",
+          "course_title":"EEE 314",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"MICROPROCESSOR AND INTERFACING",
+          "course_title":"EEE 319",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 303",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"MICROPROCESSOR AND INTERFACING LABORATORY",
+          "course_title":"EEE 320",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 304",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"PROJECT/THESIS",
+          "course_title":"EEE 400",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"6.00",
+          "prerequisit":"All courses of English, GED, Basic Science, Program core and Interdisciplinary\u00a0 engineering courses.",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"VLSI CIRCUITS I",
+          "course_title":"EEE 429",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 303",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"VLSI CIRCUITS I LABORATORY",
+          "course_title":"EEE 430",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 304",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"ANALOG INTEGRATED CIRCUITS",
+          "course_title":"EEE 431",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 207",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"SEMICONDUCTOR DEVICES",
+          "course_title":"EEE 433",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 309",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"OPTOELCTRONICS",
+          "course_title":"EEE 435",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 207, EEE 309",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"DIGITAL INTEGRATED CIRCUIT DESIGN",
+          "course_title":"EEE 443",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE \u00a0429",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"VLSI CIRCUITS II",
+          "course_title":"EEE 445",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 311",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"VLSI CIRCUITS II LABORATORY",
+          "course_title":"EEE 446",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 312",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"RANDOM SIGNALS AND PROCESS",
+          "course_title":"EEE 451",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 313",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"MOBILE CELLULAR COMMUNICATION",
+          "course_title":"EEE 453",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 307",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"OPTICAL FIBER COMMUNICATION",
+          "course_title":"EEE 455",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 307",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"DIGITAL SIGNAL PROCESSING II",
+          "course_title":"EEE 457",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 313",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"DIGITAL COMMUNICATION",
+          "course_title":"EEE 461",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 307, EEE 313",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"DIGITAL COMMUNICATION LABORATORY",
+          "course_title":"EEE 462",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 314",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"MICROWAVE ENGINEERING",
+          "course_title":"EEE 463",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 307",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"MICROWAVE ENGINEERING LABORATORY",
+          "course_title":"EEE 464",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 308",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"INFORMATION AND CODING",
+          "course_title":"EEE 465",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"DISCRETE MATHEMATICS",
+          "course_title":"CSE 409",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"MAT 102",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"COMPUTER ARCHITECTURE",
+          "course_title":"CSE 441",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"CSE 201",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"MATHEMATICAL ANALYSIS FOR COMPUTER SCIENCE",
+          "course_title":"CSE  413",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"MAT 201",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"DIGITAL COMPUTER DESIGN",
+          "course_title":"CSE 415",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"CSE 213, CSE 401",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"OBJECT ORIENTED PROGRAMMING LANGUAGE",
+          "course_title":"CSE 417",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"CSE 103",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"OBJECT ORIENTED PROGRAMMING LANGUAGE LAB",
+          "course_title":"CSE 418",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"CSE 104",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"COMPUTER NETWORKS",
+          "course_title":"CSE 419",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"CSE 103, EEE 307",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"COMPUTER NETWORKS LABORATORY",
+          "course_title":"CSE 420",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"CSE 104",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"MICROPROCESSOR BASED SYSTEM DESIGN",
+          "course_title":"CSE 421",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"EEE 317, EEE 401",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"MICROPROCESSOR BASED SYSTEM DESIGN LAB",
+          "course_title":"CSE 422",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"EEE 402",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"POWER SYSTEM II",
+          "course_title":"EEE 471",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"ENERGY CONVERSION III",
+          "course_title":"EEE 473",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"POWER PLANT ENGINEERING",
+          "course_title":"EEE 475",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"POWER ELECTRONICS",
+          "course_title":"EEE 477",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"POWER ELECTRONICS LABORATORY",
+          "course_title":"EEE 478",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"POWER SYSTEM RELIABILITY",
+          "course_title":"EEE 479",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"POWER SYSTEM PROTECTION",
+          "course_title":"EEE 481",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"POWER SYSTEM PROTECTION LABORATORY",
+          "course_title":"EEE 482",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.50",
+          "prerequisit":"",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"HIGH VOLTAGE ENGINEERING",
+          "course_title":"EEE 483",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3.00",
+          "prerequisit":"",
+          "program":"eee",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 101",
+          "course_title":"English Language I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 102",
+          "course_title":"English Language II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"SOC 101",
+          "course_title":"Introduction to Social Sciences",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"HUM 101",
+          "course_title":"World History & Civilization",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"HUM 102",
+          "course_title":"Introduction to Philosophy",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"HUM 103",
+          "course_title":"European History",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"HUM 104",
+          "course_title":"International Relations",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 103",
+          "course_title":"Introduction to Poetry",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 104",
+          "course_title":"Introduction to Prose",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 201",
+          "course_title":"Introduction to Drama",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 202",
+          "course_title":"Basic English Grammar",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 203",
+          "course_title":"The Romantic Poets",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 204",
+          "course_title":"History of English Literature",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 205",
+          "course_title":"Introduction to Linguistics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 205",
+          "course_title":"Introduction to Linguistics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 206",
+          "course_title":"Modern Drama",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 207",
+          "course_title":"American Literature I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 208",
+          "course_title":"18th Century English Literature",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 209",
+          "course_title":"Victorian Literature",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 210",
+          "course_title":"Elizabethan to Restoration Literature",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 301",
+          "course_title":"English Non-fiction Prose",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 302",
+          "course_title":"American Literature II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 303",
+          "course_title":"English Syntax",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 304",
+          "course_title":"Introduction to English Language Teaching (ELT)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 305",
+          "course_title":"Critical Appreciation, Rhetoric & Prosody",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 306",
+          "course_title":"Introduction to Phonetics & Phonology",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 307",
+          "course_title":"Literary Criticism (Ancient & Modern)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 308",
+          "course_title":"Studies in Shakespeare",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 309",
+          "course_title":"Literary Theories I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 310",
+          "course_title":"Classics in Translation",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 401",
+          "course_title":"Modern Fiction",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 402",
+          "course_title":"Modern Poetry",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 403",
+          "course_title":"Postcolonial Literature l",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 404",
+          "course_title":"English for Specific Purposes (ESP)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 450",
+          "course_title":"Research Methodology",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 499",
+          "course_title":"Project work: Thesis",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"4",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 430",
+          "course_title":"Introduction to Sociolinguistics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 431",
+          "course_title":"Introduction to Psycholinguistics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 433",
+          "course_title":"Introduction to Semantics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"HUM 439",
+          "course_title":"History of Western Ideas",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 436",
+          "course_title":"Bangla Literature",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 435",
+          "course_title":"Literary Theories II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 432",
+          "course_title":"Language Learning and Acquisition",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 437",
+          "course_title":"Post-Colonial Literature II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 438",
+          "course_title":"Old and Middle English Literature",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 434",
+          "course_title":"Translation",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"eng",
+          "semester":""
+       },
+       {
+          "course_code":"Law-602",
+          "course_title":"Bangladesh and English Legal System",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"ENG-101",
+          "course_title":"English for Law I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-604",
+          "course_title":"Government and Politics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-604",
+          "course_title":"Government and Politics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-605",
+          "course_title":"Jurisprudence and Legal Theory",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-606",
+          "course_title":"Bangladesh Studies",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"CSE-101",
+          "course_title":"Introduction to Computer",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-608",
+          "course_title":"Cyber Law",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-608",
+          "course_title":"Cyber Law",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-609",
+          "course_title":"Hindu Law and Roman Law",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-610",
+          "course_title":"Muslim Law-I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-611",
+          "course_title":"The Law of Consumer Rights",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-612",
+          "course_title":"Public International Law",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"2nd",
+          "course_title":"4th",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-613",
+          "course_title":"Muslim Law-II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-614",
+          "course_title":"Law of Mass Media",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-615",
+          "course_title":"Criminology",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-616",
+          "course_title":"Constitutional Law of Bangladesh",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-616",
+          "course_title":"Constitutional Law of Bangladesh",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-617",
+          "course_title":"Constitutional Laws of UK and USA",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-618",
+          "course_title":"",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-619",
+          "course_title":"Company Law and Partnership Law",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-620",
+          "course_title":"Land Laws of Bangladesh-I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-620",
+          "course_title":"Land Laws of Bangladesh-I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-621",
+          "course_title":"Land Laws of Bangladesh-II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-622",
+          "course_title":"Law of Contract",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-623",
+          "course_title":"Law of Tort",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-624",
+          "course_title":"Law of Transfer of Property",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-625",
+          "course_title":"Labor Law",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-626",
+          "course_title":"Mercantile Law",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-627",
+          "course_title":"General Clauses Act and Interpretation of Statute",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-628",
+          "course_title":"Law of Registration and PDR Act",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-628",
+          "course_title":"Law of Registration and PDR Act",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-629",
+          "course_title":"Revenue and Fiscal Law",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-630",
+          "course_title":"Law of Evidence",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-631",
+          "course_title":"Penal Code",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-632",
+          "course_title":"Police Regulation of Bengal and Jail Code",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-632",
+          "course_title":"Police Regulation of Bengal and Jail Code",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-633",
+          "course_title":"Special Penal Laws",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-634",
+          "course_title":"Court Fees Act ,Stamp Act and Suit Valuation Act",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-635",
+          "course_title":"Law of Banking and Insurance",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-636",
+          "course_title":"SR. Act and Law of Limitation",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"4th",
+          "course_title":"10th",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-637",
+          "course_title":"Code of Civil Procedure-I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-638",
+          "course_title":"Code of Criminal Procedure-I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-639",
+          "course_title":"Civil Rules and Orders and Civil Suit Instruction Manual",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-640",
+          "course_title":"Code of Civil Procedure -II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-640",
+          "course_title":"Code of Civil Procedure -II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-641",
+          "course_title":"Code of Criminal Procedure-II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-642",
+          "course_title":"Conveyance and Legal Drafting-I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-643",
+          "course_title":"Conveyance and Legal Drafting-II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-644",
+          "course_title":"Clinical Legal Education",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-644",
+          "course_title":"Clinical Legal Education",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-645",
+          "course_title":"Bar Council Rules, Professional Conduct & Etiquette",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-646",
+          "course_title":"Legal Research Methodology",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-647",
+          "course_title":"Dissertation",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"Law-647",
+          "course_title":"Dissertation",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"llb",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 101",
+          "course_title":"English Language",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"MAT 101",
+          "course_title":"Mathematics \u2013 I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"CHE 101",
+          "course_title":"Chemistry I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 101",
+          "course_title":"Introduction to Textile Engineering",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"2",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"MEC 102",
+          "course_title":"Engineering Drawing",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"CHE 102",
+          "course_title":"Chemistry I (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"CSC 102",
+          "course_title":"Introduction to Computer Applications",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"MAT 103",
+          "course_title":"Mathematics \u2013 II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"PHY 101",
+          "course_title":"Physics I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"CHE 103",
+          "course_title":"Chemistry II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"MEC 101",
+          "course_title":"Engineering Materials",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"PHY 102",
+          "course_title":"Physics I Lab",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"CHE 104",
+          "course_title":"Chemistry II Lab",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"CSC 104",
+          "course_title":"Introduction to Computer Programming",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 105",
+          "course_title":"Textile Raw Materials - I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"PHY 103",
+          "course_title":"Physics II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 103",
+          "course_title":"Polymer Science",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"STA 101",
+          "course_title":"Statistics for Engineering",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"2",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"PHY 104",
+          "course_title":"Physics II Lab",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"MEC 104",
+          "course_title":"Workshop Practice",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"ENG 201",
+          "course_title":"Business Communication",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"2",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 201",
+          "course_title":"Textile Raw Materials - II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"MEC 201",
+          "course_title":"Elements of Mechanical Engineering",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"EEE 201",
+          "course_title":"Elements of Electrical Engineering & Electronics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"STA 102",
+          "course_title":"Statistical Data Analysis",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"MEC 202",
+          "course_title":"Elements of Mechanical engineering (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"EEE 202",
+          "course_title":"Elements of Electrical Engineering & Electronics (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"MEC 203",
+          "course_title":"Elements of Theory of Machines & Machine Design",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 203",
+          "course_title":"Textile Physics \u2013 I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 205",
+          "course_title":"Yarn Manufacturing Technology - I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 207",
+          "course_title":"Fabric Manufacturing Technology - I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 206",
+          "course_title":"Yarn Manufacturing Technology \u2013 I (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 208",
+          "course_title":"Fabric Manufacturing Technology \u2013 I (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"ECO 201",
+          "course_title":"Industrial Economics",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"2",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 213",
+          "course_title":"Wet Processing Technology - I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 215",
+          "course_title":"Garments Manufacturing Technology - I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 305",
+          "course_title":"Textile Testing and Quality Cotrol - I",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 214",
+          "course_title":"Wet Processing Technology \u2013 I (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 216",
+          "course_title":"Garments Manufacturing Technology \u2013 I (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 306",
+          "course_title":"Textile Testing and Quality Control \u2013 I (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"MGT 301",
+          "course_title":"Industrial Management",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 301",
+          "course_title":"Yarn Manufacturing Technology - II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 303",
+          "course_title":"Fabric Manufacturing Technology - II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 311",
+          "course_title":"Textile Physics - II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 302",
+          "course_title":"Yarn Manufacturing Technology \u2013II (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 304",
+          "course_title":"Fabric Manufacturing Technology \u2013II\u00a0 (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 211",
+          "course_title":"Fabric Structure and Design",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 307",
+          "course_title":"Wet Processing Technology - II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 309",
+          "course_title":"Garments Manufacturing Technology - II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 319",
+          "course_title":"Environment Engineering",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"2",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 212",
+          "course_title":"Fabric Structure and Design (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 308",
+          "course_title":"Wet Processing Technology - II (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 310",
+          "course_title":"Garments Manufacturing Technology \u2013 II (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 313",
+          "course_title":"Textile Testing and Quality Control - II",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 315",
+          "course_title":"Production Planning & Control",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 317",
+          "course_title":"Application of computer in Textiles",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"EEE 301",
+          "course_title":"Introduction to Microprocessor, Robotics & Control Engg.",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 314",
+          "course_title":"Textile Testing and Quality Control \u2013 II ( Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 318",
+          "course_title":"Application of computer in Textiles ( Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"FIN 401",
+          "course_title":"Financial Accounting & Marketing",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 401",
+          "course_title":"Yarn Manufacturing Technology - III (Optional)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 403",
+          "course_title":"Fabric Manufacturing Technology - III ( Optional)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"(Any one)",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 405",
+          "course_title":"Wet Processing Technology - III (Optional)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 407",
+          "course_title":"Garments Manufacturing Technology - III (Optional)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 409",
+          "course_title":"Jute Processing Technology - I (optional)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE411",
+          "course_title":"Maintenance of Textile Machines YMT/FMT/ GMT/ WPT/JPT",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"2",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 421",
+          "course_title":"Special yarn Production",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"2",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 423",
+          "course_title":"Special Fabric Production",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"(Any one)",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 425",
+          "course_title":"Special Wet Processing Technology",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 427",
+          "course_title":"Special Garments Technology",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 429",
+          "course_title":"Diversified Jute Products.",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 402",
+          "course_title":"Yarn Manufacturing Technology - III (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 404",
+          "course_title":"Fabric Manufacturing Technology - III ( Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"(Any one)",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 406",
+          "course_title":"Wet Processing Technology-III (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 408",
+          "course_title":"Garments \u00a0Manufacturing Technology - III ( Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 410",
+          "course_title":"Jute Processing Technology - I (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 412",
+          "course_title":"Maintenance of Textile (YMT) Machines (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 414",
+          "course_title":"Maintenance of Textile (FMT) Machines (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"(Any one)",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 416",
+          "course_title":"Maintenance of Textile (WPT) Machines (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 418",
+          "course_title":"Maintenance of Textile (GMT) Machines (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 420",
+          "course_title":"Maintenance of Textile (JPT) Machines (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 443",
+          "course_title":"Compliance & Certification",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"2",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 431",
+          "course_title":"Yarn Manufacturing Technology - IV (Optional)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 433",
+          "course_title":"Fabric Manufacturing Technology - IV ( Optional)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"(Any one)",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 435",
+          "course_title":"Wet Processing Technology - IV (Optional)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 437",
+          "course_title":"Garments Manufacturing Technology - IV ( Optional)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 439",
+          "course_title":"Jute Processing Technology - II (optional)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 441",
+          "course_title":"Technical Textiles",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"2",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 432",
+          "course_title":"Yarn Manufacturing Technology - IV (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"1.5",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 434",
+          "course_title":"Fabric Manufacturing Technology - IV ( Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"(Any one)",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 436",
+          "course_title":"Wet Processing Technology-IV (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 438",
+          "course_title":"Apparel Manufacturing Technology - IV ( Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 440",
+          "course_title":"Jute Processing Technology - II (Lab)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"",
+          "course_title":"",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 448",
+          "course_title":"Industrial Training & Practice (8 weeks)",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       },
+       {
+          "course_code":"TXE 450",
+          "course_title":"Project",
+          "theory_credit":"",
+          "lab_credit":"",
+          "total_credit":"3",
+          "prerequisit":"",
+          "program":"textile",
+          "semester":""
+       }
+    ]
+ }

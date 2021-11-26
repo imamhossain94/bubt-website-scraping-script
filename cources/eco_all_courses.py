@@ -22,7 +22,9 @@ def getECOCourse(programUrl):
                         'theory_credit': '',
                         'lab_credit': '',
                         'total_credit': cols[3].text.strip(),
-                        'prerequisit': ''
+                        'prerequisit': '',
+                        'program':'eco',
+                        'semester':''               
                     }
                     finalData['data'].append(localData)
         print(json.dumps(finalData))
